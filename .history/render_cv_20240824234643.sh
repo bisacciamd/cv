@@ -16,10 +16,10 @@ current_date=$(date +%Y-%m-%d)
 cp docs/it/index.pdf cv_output/Bisaccia_CV_it_${current_date}.pdf
 
 # Copy the publications (IT)
-cp docs/it/publications/index.pdf cv_output/Bisaccia_CV_supplement_it_${current_date}.pdf
+cp docs/it/publications/index.pdf cv_output/Bisaccia_Publications_it_${current_date}.pdf
 
 # Copy the CV (EN)
 cp docs/index.pdf cv_output/Bisaccia_CV_en_${current_date}.pdf
 
 # Copy the publications (EN)
-cp docs/publications/index.pdf cv_output/Bisaccia_CV_supplement_en_${current_date}.pdf
+cp docs/publications/index.pdf cv_output/Bisaccia_Publications_en_${current_date}.pdf

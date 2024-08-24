@@ -174,7 +174,9 @@ csl: apa-cv.csl
   - Strong modelling and data visualization skills in R 
   - Dynamic, reproducible reporting in Quarto
   - Development and deployment of server-based Shiny applications
-  - Proficient in using Word, Excel, Powerpoint, REDCap and Git
+  - Experienced Git and [Github](https://github.com/bisacciamd) user
+  - Experienced REDCap user
+  - Proficient in Microsoft Word, Excel, Powerpoint
 
 - English language 
   - International English Language Testing System (IELTS) \hfill Nov 2023
@@ -195,7 +197,9 @@ csl: apa-cv.csl
   - Competenze avanzate di visualizzazione dati e modelling in R
   - Reporting dinamico, riproducibile in Quarto
   - Sviluppo di applicazioni Shiny
-  - Utente esperto di Word, Excel, Powerpoint, REDCap e Git
+  - Utente esperto di Git e [Github](https://github.com/bisacciamd)
+  - Utente esperto di REDCap
+  - Utente esperto di Word, Excel, Powerpoint
 
 - Lingua inglese
   - International English Language Testing System (IELTS) \hfill Novembre 2023
