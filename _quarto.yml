@@ -15,7 +15,7 @@ website:
     left:
       - icon: file-earmark-text
         text: CV
-        href: cv/index.qmd
+        href: index.qmd
       - icon: paperclip
         text: Publications
         href: publications/index.qmd
