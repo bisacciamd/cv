@@ -227,14 +227,8 @@ csl: apa-cv.csl
 :::
 
 ::: {.content-visible when-profile="english"}
-
-# Scientific publications, certifications and affiliations
-
 For a comprehensive list of my scientific publications, certifications, and professional affiliations please refer to my [CV supplement](https://cv.bisacciamd.com/publications/index.pdf).
 :::
 ::: {.content-visible when-profile="italian"}
-
-# Pubblicazioni, certificazioni ed affiliazioni
-
 Per una lista esaustiva delle mie pubblicazioni scientifiche, certificazioni ed affiliazioni professionali si faccia riferimento al mio [CV supplement](https://cv.bisacciamd.com/publications/index.pdf).
 :::
