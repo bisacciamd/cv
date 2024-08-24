@@ -1,0 +1,41 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - CNAME
+
+profile:
+  default: english
+  group: 
+    - [english, italian]
+
+website:
+  title: "G. Bisaccia, MD, PhD"
+  
+  navbar:
+    logo: images/profile.jpg
+    left:
+      - icon: file-earmark-text
+        text: CV
+        href: cv/index.qmd
+      - icon: paperclip
+        text: Publications
+        href: publications/index.qmd
+    right:
+      - text: Portfolio website
+        href: https://bisacciamd.com
+  page-footer: "Developed with Quarto by Giandomenico Bisaccia — 2024" 
+  reader-mode: false
+format:
+  html:
+    theme: 
+      light: [litera, styles.scss]
+      dark: [superhero, styles.scss]
+    css: styles.css
+    toc: true
+    toc-location: left
+#  docx:
+#    reference-doc: custom-reference-doc.docx
+csl: jacc-cvi.csl
+execute: 
+  freeze: true
