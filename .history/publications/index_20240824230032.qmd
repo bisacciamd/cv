@@ -46,7 +46,7 @@ I have authored `r pubs` scientific publications, where I contributed to literat
 
 My publications may also be accessed on [NCBI](https://www.ncbi.nlm.nih.gov/myncbi/giandomenico.bisaccia.1/bibliography/public/).
 
-## Original research
+### Original research
 :::
 
 ::: {.content-visible when-profile="italian"}
@@ -54,7 +54,7 @@ Ho contribuito a `r pubs` pubblicazioni scientifiche effettuando revisioni della
 
 La lista delle mie pubblicazioni è disponibile online su [NCBI](https://www.ncbi.nlm.nih.gov/myncbi/giandomenico.bisaccia.1/bibliography/public/).
 
-## Studi originali
+### Studi originali
 :::
 **Safety and feasibility of adenosine stress cardiac MRI in heart transplant recipients** (2024).
 **G. Bisaccia**, R. Licordari, I. Leo, G. La Vecchia, M. Perotto, M. C. Procopio, N. Miaris, F. Ricci, S. Gallina, J. Wong, P. Kellman and C. Bucciarelli-Ducci.
@@ -107,10 +107,10 @@ F. Ricci, N. Aung, S. Gallina, F. Zemrak, K. Fung, **G. Bisaccia**, J. M. Paiva,
 [{{< bi box-arrow-up-right >}}](https://doi.org/10.1186/s12968-020-00688-y)
 
 ::: {.content-visible when-profile="english"}
-## Reviews
+### Reviews
 :::
 ::: {.content-visible when-profile="italian"}
-## Revisioni della letteratura
+### Revisioni della letteratura
 :::
 
 **Prevention of cardiotoxicity in childhood cancer survivors: in physical exercise, we trust** (2024).
@@ -227,7 +227,7 @@ I. Leo, **G. Bisaccia**, N. Miaris, M. C. Procopio, R. Licordari and C. Bucciare
 # Professional affiliations
 
 - Member of the 
-  - American Heart Association \hfill 2023-present
+  - American Heart Association (2023-present)
   - American College of Cardiology (Fellow in Training) \hfill 2022-present
   - Society for Cardiovascular Magnetic Resonance (Early Career working group) \hfill 2022-present
   - European Society of Cardiology (Professional member) \hfill 2021-present
