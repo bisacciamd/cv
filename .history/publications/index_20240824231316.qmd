@@ -42,13 +42,17 @@ pubs <- length(bib2df("bibs/cv.bib")$BIBTEXKEY)
 ```
 
 ::: {.content-visible when-profile="english"}
-I have authored `r pubs` scientific publications, where I contributed to literature review, statistical analyses, manuscript drafting, and/or preparation of visual illustrations and figures. My publications may also be accessed on [NCBI](https://www.ncbi.nlm.nih.gov/myncbi/giandomenico.bisaccia.1/bibliography/public/).
+I have authored `r pubs` scientific publications, where I contributed to literature review, statistical analyses, manuscript drafting, and/or preparation of visual illustrations and figures.
+
+My publications may also be accessed on [NCBI](https://www.ncbi.nlm.nih.gov/myncbi/giandomenico.bisaccia.1/bibliography/public/).
 
 ## Original research
 :::
 
 ::: {.content-visible when-profile="italian"}
-Ho contribuito a `r pubs` pubblicazioni scientifiche effettuando revisioni della letteratura, analisi statistiche, la prima stesura del testo, e la preparazione di illustrazioni e figure. La lista delle mie pubblicazioni è disponibile online su [NCBI](https://www.ncbi.nlm.nih.gov/myncbi/giandomenico.bisaccia.1/bibliography/public/).
+Ho contribuito a `r pubs` pubblicazioni scientifiche effettuando revisioni della letteratura, analisi statistiche, la prima stesura del testo, e la preparazione di illustrazioni e figure.
+
+La lista delle mie pubblicazioni è disponibile online su [NCBI](https://www.ncbi.nlm.nih.gov/myncbi/giandomenico.bisaccia.1/bibliography/public/).
 
 ## Studi originali
 :::
@@ -205,7 +209,6 @@ I. Leo, **G. Bisaccia**, N. Miaris, M. C. Procopio, R. Licordari and C. Bucciare
 - HFA Clinical Trials in Heart Failure Course, Naples, Italy \hfill 20-22 September 2024
 - R in HTA Hackathon, Queen’s University Belfast, UK \hfill 5-6 August 2024
 - R for trial and model-based cost-effectiveness analysis workshop, ScHARR, University of Sheffield, UK \hfill 28 June 2024
-- Productive R Workflow course ([online](https://www.productive-r-workflow.com/)) \hfill April 2024
 - Clinical CMR Course (3 months, full-time), Royal Brompton Hospital, London, UK \hfill October-December 2022
 
 :::
@@ -215,9 +218,8 @@ I. Leo, **G. Bisaccia**, N. Miaris, M. C. Procopio, R. Licordari and C. Bucciare
 
 - HFA Clinical Trials in Heart Failure Course, Napoli, Italia \hfill 20-22 Settembre 2024
 - R in HTA Hackathon, Queen’s University Belfast, Regno Unito \hfill 5-6 Agosto 2024
-- R for trial and model-based cost-effectiveness analysis workshop, University of Sheffield, Regno Unito \hfill 28 Giugno 2024
-- Corso "Productive R Workflow" ([online](https://www.productive-r-workflow.com/)) \hfill Aprile 2024
-- Corso trimestrale di risonanza magnetica cardiaca (3 months, full-time), Royal Brompton Hospital, Londra, Regno Unito \hfill Ottobre-Dicembre 2022
+- R for trial and model-based cost-effectiveness analysis workshop, ScHARR, University of Sheffield, Regno Unito \hfill 28 Giugno 2024
+- Clinical CMR Course (3 months, full-time), Royal Brompton Hospital, Londra, Regno Unito \hfill Ottobre-Dicembre 2022
 
 :::
 

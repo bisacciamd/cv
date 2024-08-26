@@ -215,7 +215,7 @@ I. Leo, **G. Bisaccia**, N. Miaris, M. C. Procopio, R. Licordari and C. Bucciare
 
 - HFA Clinical Trials in Heart Failure Course, Napoli, Italia \hfill 20-22 Settembre 2024
 - R in HTA Hackathon, Queen’s University Belfast, Regno Unito \hfill 5-6 Agosto 2024
-- R for trial and model-based cost-effectiveness analysis workshop, University of Sheffield, Regno Unito \hfill 28 Giugno 2024
+- R for trial and model-based cost-effectiveness analysis workshop, ScHARR, University of Sheffield, Regno Unito \hfill 28 Giugno 2024
 - Corso "Productive R Workflow" ([online](https://www.productive-r-workflow.com/)) \hfill Aprile 2024
 - Corso trimestrale di risonanza magnetica cardiaca (3 months, full-time), Royal Brompton Hospital, Londra, Regno Unito \hfill Ottobre-Dicembre 2022
 
