@@ -1,4 +1,6 @@
 # My CV
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+
 - This bilingual CV is powered by R and Quarto and rendered on my portfolio website.
 - At present, it is pre-rendered locally, although Github Actions integration is [planned](https://github.com/bisacciamd/cv/issues/3)
 - [Publications](https://cv.bisacciamd.com/publications) are currently manually added, but auto-update is [planned](https://github.com/bisacciamd/cv/issues/7)
