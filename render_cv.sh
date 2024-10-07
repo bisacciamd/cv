@@ -27,10 +27,10 @@ current_date=$(date +%Y-%m-%d)
 cp docs/it/index.pdf "$output_dir/Bisaccia_CV_it_${current_date}.pdf"
 
 # Copy the publications (IT)
-cp docs/it/publications/index.pdf "$output_dir/Bisaccia_CV_supplement_it_${current_date}.pdf"
+cp docs/it/supplement/index.pdf "$output_dir/Bisaccia_CV_supplement_it_${current_date}.pdf"
 
 # Copy the CV (EN)
 cp docs/index.pdf "$output_dir/Bisaccia_CV_en_${current_date}.pdf"
 
 # Copy the publications (EN)
-cp docs/publications/index.pdf "$output_dir/Bisaccia_CV_supplement_en_${current_date}.pdf"
+cp docs/supplement/index.pdf "$output_dir/Bisaccia_CV_supplement_en_${current_date}.pdf"

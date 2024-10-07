@@ -2,7 +2,7 @@
 #title: Giandomenico Bisaccia
 format:
   html: default
-  quarto-cv-pdf:
+  quarto-cv-pdf: 
     hyperrefoptions: draft
 author: Giandomenico Bisaccia, MD, PhD
 date: last-modified
@@ -39,7 +39,7 @@ csl: apa-cv.csl
 *Harefield Hospital, London, UK* \hfill Sept 2022—May 2023
 
 - Honorary clinical research fellowship (full time)
-  - Prepared initial reports for 250+ clinical CMR scans
+  - Prepared initial reports for 300+ clinical CMR scans
   - Conducted audit on stress CMR after heart transplantation
   - Researched on CMR in patients with angina, cardiomyopathies, and after heart transplantation
   - Improved team productivity with coding skills
@@ -62,7 +62,7 @@ csl: apa-cv.csl
 *Harefield Hospital, Londra, Regno Unito* \hfill Settembre 2022—Mag 2023
 
 - Honorary clinical research fellowship (a tempo pieno)
-  - Preparazione di 250+ report preliminari di studi clinici di CMR
+  - Preparazione di 300+ report preliminari di studi clinici di CMR
   - Conduzione di un audit clinico sul profilo di *safety* e *feasibility* della stress CMR nei pazienti con pregresso trapianto cardiaco
   - Attività di ricerca: utilità clinica della CMR in pazienti con dolore toracico e cardiomiopatie
 
@@ -174,7 +174,7 @@ csl: apa-cv.csl
   - Strong modelling and data visualization skills in R 
   - Dynamic, reproducible reporting in Quarto
   - Development and deployment of server-based Shiny applications
-  - Experienced Git and [Github](https://github.com/bisacciamd) user
+  - Experienced Git and Github user
   - Experienced REDCap user
   - Proficient in Microsoft Word, Excel, Powerpoint
 
@@ -197,7 +197,7 @@ csl: apa-cv.csl
   - Competenze avanzate di visualizzazione dati e modelling in R
   - Reporting dinamico, riproducibile in Quarto
   - Sviluppo di applicazioni Shiny
-  - Utente esperto di Git e [Github](https://github.com/bisacciamd)
+  - Utente esperto di Git e Github
   - Utente esperto di REDCap
   - Utente esperto di Word, Excel, Powerpoint
 
@@ -232,13 +232,13 @@ csl: apa-cv.csl
 
 ::: {.content-visible when-profile="english"}
 
-# Scientific publications, certifications and affiliations
+# Certifications, affiliations, and publications
 
-For a comprehensive list of my scientific publications, certifications, and professional affiliations please refer to my [CV supplement](https://cv.bisacciamd.com/supplement/index.pdf).
+For a list of my certifications, professional affiliations, and scientific publications, please refer to my CV supplement.
 :::
 ::: {.content-visible when-profile="italian"}
 
-# Pubblicazioni, certificazioni ed affiliazioni
+# Certificazioni, affiliazioni e pubblicazioni scientifiche
 
-Per una lista esaustiva delle mie pubblicazioni scientifiche, certificazioni ed affiliazioni professionali si faccia riferimento al mio [CV supplement](https://cv.bisacciamd.com/supplement/index.pdf).
+Per una lista delle mie certificazioni, affiliazioni professionali e pubblicazioni scientifiche si faccia riferimento al mio CV supplement.
 :::
