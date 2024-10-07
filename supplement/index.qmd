@@ -28,11 +28,11 @@ execute:
 ::: {.content-visible when-profile="english"}
 # Participation in certified courses, workshops, and hackathons
 
-- "Stress CMR: A Hands-On Workshop" by SCMR, ACC Heart House, Washington D.C., USA \hfill 4-5 October 2024
+- Stress CMR: A Hands-On Workshop, SCMR, ACC Heart House, Washington D.C., USA \hfill 4-5 October 2024
 - HFA Clinical Trials in Heart Failure Course, Naples, Italy \hfill 20-22 September 2024
 - R in HTA Hackathon, Queen’s University Belfast, UK \hfill 5-6 August 2024
 - R for trial and model-based cost-effectiveness analysis workshop, ScHARR, University of Sheffield, UK \hfill 28 June 2024
-- Productive R Workflow course ([online](https://www.productive-r-workflow.com/)) \hfill April 2024
+- Productive R Workflow course, online certification \hfill April 2024
 - Clinical CMR Course (3 months, full-time), Royal Brompton Hospital, London, UK \hfill October-December 2022
 
 
@@ -45,7 +45,7 @@ execute:
 - HFA Clinical Trials in Heart Failure Course, Napoli, Italia \hfill 20-22 Settembre 2024
 - R in HTA Hackathon, Queen’s University Belfast, Regno Unito \hfill 5-6 Agosto 2024
 - R for trial and model-based cost-effectiveness analysis workshop, University of Sheffield, Regno Unito \hfill 28 Giugno 2024
-- Corso "Productive R Workflow" ([online](https://www.productive-r-workflow.com/)) \hfill Aprile 2024
+- Corso Productive R Workflow, online \hfill Aprile 2024
 - Corso trimestrale di risonanza magnetica cardiaca (3 months, full-time), Royal Brompton Hospital, Londra, Regno Unito \hfill Ottobre-Dicembre 2022
 
 
@@ -168,6 +168,12 @@ F. Ricci, N. Aung, S. Gallina, F. Zemrak, K. Fung, **G. Bisaccia**, J. M. Paiva,
 ## Revisioni della letteratura
 :::
 
+**Cardiac Magnetic Resonance Imaging: A Utility in Heart Failure** (2024).
+**G. Bisaccia** and C. Bucciarelli-Ducci.
+*Heart Failure Journal of India*.
+[{{< bi box-arrow-up-right >}}](https://journals.lww.com/hfji/fulltext/2024/05000/cardiac_magnetic_resonance_imaging__a_utility_in.8.aspx)
+
+
 **Prevention of cardiotoxicity in childhood cancer survivors: in physical exercise, we trust** (2024).
 V. Bucciarelli, F. Bianco, **G. Bisaccia**, K. Galanti, A. Arata, M. Ricci, B. Bucciarelli, M. Marinelli, G. Renda, A. Farinetti, A. V. Mattioli and S. Gallina.
 *Current Problems in Cardiology*.
@@ -260,3 +266,16 @@ I. Leo, **G. Bisaccia**, N. Miaris, M. C. Procopio, R. Licordari and C. Bucciare
 
 *CMR reclassifies patients with suspected myocardial infarction with non-obstructive coronary arteries (MINOCA)*.
 **G. Bisaccia**, K. Liang, M. G. L. Williams, I. Leo, A. Dastidar, E. Sammut, T. Johnson and C. Bucciarelli-Ducci. [Presented at EACVI, Barcelona, Spain (May 2023)]{.content-visible when-profile="english"} [Presentato a EACVI, Barcellona, Spagna (Maggio 2023)]{.content-visible when-profile="italian"}
+
+# Peer Reviews
+::: {.content-visible when-profile="english"}
+Peer review activity for the following journals in the last 5 years:
+:::
+::: {.content-visible when-profile="italian"}
+Attività di revisione paritaria per le seguenti riviste indicizzate:
+:::
+- European Heart Journal
+- Open Heart
+- Journal of Clinical Medicine
+- Frontiers in Public Health
+- Children

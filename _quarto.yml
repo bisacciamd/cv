@@ -17,8 +17,8 @@ website:
         text: CV
         href: index.qmd
       - icon: paperclip
-        text: Publications
-        href: publications/index.qmd
+        text: Supplement
+        href: supplement/index.qmd
     right:
       - text: Portfolio website
         href: https://bisacciamd.com
