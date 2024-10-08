@@ -83,6 +83,19 @@ execute:
   - IMSOGB - Italian Medical Society of Great Britain \hfill 2024-presente
 :::
 
+# Peer Reviews
+::: {.content-visible when-profile="english"}
+I did peer reviews for the following journals in the last 5 years:
+:::
+::: {.content-visible when-profile="italian"}
+Attività di revisione paritaria per le seguenti riviste indicizzate:
+:::
+- European Heart Journal
+- Open Heart
+- Journal of Clinical Medicine
+- Frontiers in Public Health
+- Children
+
 ::: {.content-visible when-profile="english"}
 # Scientific publications
 :::
@@ -262,20 +275,9 @@ I. Leo, **G. Bisaccia**, N. Miaris, M. C. Procopio, R. Licordari and C. Bucciare
 *Safety and Feasibility of Adenosine Stress CMR for CAV Detection in Orthotopic Heart Transplant Recipients*.
 **G. Bisaccia**, R. Licordari, I. Leo, G. La Vecchia, M. Perotto, M. C. Procopio, F. Ricci, S. Gallina, J. Wong and C. Bucciarelli-Ducci. [Presented at CMR 2024 London, UK (Jan 2024).]{.content-visible when-profile="english"} [Presentato a CMR 2024 (Gennaio 2024).]{.content-visible when-profile="italian"}
 
+**Diagnostic and Prognostic Value of Stress CMR Imaging to Evaluate Stable Chest Pain: A Twenty-Year Meta-Analysis**. **G. Bisaccia**, F. Ricci, M. Y. Khanji, S. Gallina, S. E. Petersen, C. Bucciarelli-Ducci. [Presented at SCMR 2023 San Diego, US (Jan 2023).]{.content-visible when-profile="english"} [Presentato a SCMR 2023 San Diego, Stati Uniti (Gennaio 2023).]{.content-visible when-profile="italian"}
+
 ## European Association of Cardiovascular Imaging
 
 *CMR reclassifies patients with suspected myocardial infarction with non-obstructive coronary arteries (MINOCA)*.
 **G. Bisaccia**, K. Liang, M. G. L. Williams, I. Leo, A. Dastidar, E. Sammut, T. Johnson and C. Bucciarelli-Ducci. [Presented at EACVI, Barcelona, Spain (May 2023)]{.content-visible when-profile="english"} [Presentato a EACVI, Barcellona, Spagna (Maggio 2023)]{.content-visible when-profile="italian"}
-
-# Peer Reviews
-::: {.content-visible when-profile="english"}
-Peer review activity for the following journals in the last 5 years:
-:::
-::: {.content-visible when-profile="italian"}
-Attività di revisione paritaria per le seguenti riviste indicizzate:
-:::
-- European Heart Journal
-- Open Heart
-- Journal of Clinical Medicine
-- Frontiers in Public Health
-- Children
