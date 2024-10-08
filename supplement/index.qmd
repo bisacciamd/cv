@@ -83,6 +83,19 @@ execute:
   - IMSOGB - Italian Medical Society of Great Britain \hfill 2024-presente
 :::
 
+# Peer Reviews
+::: {.content-visible when-profile="english"}
+Peer review activity for the following journals in the last 5 years:
+:::
+::: {.content-visible when-profile="italian"}
+Attività di revisione paritaria per le seguenti riviste indicizzate:
+:::
+- European Heart Journal
+- Open Heart
+- Journal of Clinical Medicine
+- Frontiers in Public Health
+- Children
+
 ::: {.content-visible when-profile="english"}
 # Scientific publications
 :::
@@ -96,18 +109,26 @@ execute:
 #| error: false
 #| warning: false
 #| output: false
-library(bib2df)
-pubs <- length(bib2df("bibs/cv.bib")$BIBTEXKEY)
+source("./scripts/scopus.R")
+query <- "authlast(Bisaccia) and authfirst(Giandomenico)"
+
+# interrogates Scopus API for my name and retrieves document count
+pubs <- tryCatch({
+    generic_elsevier_api(query = query, type = "search", search_type = "author", headers = hdr)$content$`search-results`$entry
+  }, error = function(e) {
+    NULL  # In case of an error, return NULL
+  })[[1]]$`document-count`
+
 ```
 
 ::: {.content-visible when-profile="english"}
-I have authored `r pubs` scientific publications, where I contributed to literature review, statistical analyses, manuscript drafting, and/or preparation of visual illustrations and figures. My publications may also be accessed on [NCBI](https://www.ncbi.nlm.nih.gov/myncbi/giandomenico.bisaccia.1/bibliography/public/).
+I have authored `r pubs` Scopus-indexed scientific publications, where I contributed to literature review, statistical analyses, manuscript drafting, and/or preparation of tables, visual illustrations, and figures. My publications may also be accessed on [NCBI](https://www.ncbi.nlm.nih.gov/myncbi/giandomenico.bisaccia.1/bibliography/public/).
 
 ## Original research
 :::
 
 ::: {.content-visible when-profile="italian"}
-Ho contribuito a `r pubs` pubblicazioni scientifiche effettuando revisioni della letteratura, analisi statistiche, la prima stesura del testo, e la preparazione di illustrazioni e figure. La lista delle mie pubblicazioni è disponibile online su [NCBI](https://www.ncbi.nlm.nih.gov/myncbi/giandomenico.bisaccia.1/bibliography/public/).
+Ho contribuito a `r pubs` pubblicazioni scientifiche (Scopus). In questi lavori, ho effettuato revisioni della letteratura, la prima stesura del testo, analisi statistiche, e la preparazione di tabelle, illustrazioni e figure. La lista delle mie pubblicazioni è disponibile online su [NCBI](https://www.ncbi.nlm.nih.gov/myncbi/giandomenico.bisaccia.1/bibliography/public/).
 
 ## Studi originali
 :::
@@ -266,16 +287,3 @@ I. Leo, **G. Bisaccia**, N. Miaris, M. C. Procopio, R. Licordari and C. Bucciare
 
 *CMR reclassifies patients with suspected myocardial infarction with non-obstructive coronary arteries (MINOCA)*.
 **G. Bisaccia**, K. Liang, M. G. L. Williams, I. Leo, A. Dastidar, E. Sammut, T. Johnson and C. Bucciarelli-Ducci. [Presented at EACVI, Barcelona, Spain (May 2023)]{.content-visible when-profile="english"} [Presentato a EACVI, Barcellona, Spagna (Maggio 2023)]{.content-visible when-profile="italian"}
-
-# Peer Reviews
-::: {.content-visible when-profile="english"}
-Peer review activity for the following journals in the last 5 years:
-:::
-::: {.content-visible when-profile="italian"}
-Attività di revisione paritaria per le seguenti riviste indicizzate:
-:::
-- European Heart Journal
-- Open Heart
-- Journal of Clinical Medicine
-- Frontiers in Public Health
-- Children

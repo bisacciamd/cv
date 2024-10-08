@@ -6,3 +6,5 @@
 *.DS_Store
 .history/
 cv_output/raw/
+_full.qmd
+data/

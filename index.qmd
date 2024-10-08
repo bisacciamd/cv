@@ -229,16 +229,3 @@ csl: apa-cv.csl
 - Travel Grant, SCMR Conference, San Diego, USA \hfill Gennaio 2023
 - Riconoscimento «Percorso di Eccellenza» in Medicina e Chirurgia, Università G. d’Annunzio di Chieti e Pescara, Chieti, Italia \hfill Ottobre 2019
 :::
-
-::: {.content-visible when-profile="english"}
-
-# Certifications, affiliations, and publications
-
-For a list of my certifications, professional affiliations, and scientific publications, please refer to my CV supplement.
-:::
-::: {.content-visible when-profile="italian"}
-
-# Certificazioni, affiliazioni e pubblicazioni scientifiche
-
-Per una lista delle mie certificazioni, affiliazioni professionali e pubblicazioni scientifiche si faccia riferimento al mio CV supplement.
-:::
