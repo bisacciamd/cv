@@ -109,8 +109,16 @@ Attività di revisione paritaria per le seguenti riviste indicizzate:
 #| error: false
 #| warning: false
 #| output: false
-library(bib2df)
-pubs <- length(bib2df("bibs/cv.bib")$BIBTEXKEY)
+source("scripts/scopus.R")
+query <- "AU-ID(57221310090)" # my Scopus Author id
+
+# interrogates Scopus API for my name and retrieves document count
+pubs <- tryCatch({
+    generic_elsevier_api(query = query, type = "search", search_type = "author", headers = hdr)$content$`search-results`$entry
+  }, error = function(e) {
+    NULL  # In case of an error, return NULL
+  })[[1]]$`document-count`
+
 ```
 
 ::: {.content-visible when-profile="english"}

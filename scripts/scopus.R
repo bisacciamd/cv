@@ -1,0 +1,5 @@
+#install.packages("rscopus")
+library(rscopus)
+set_api_key(readLines("data/scopus_api_key.secret"))
+token <- readLines("data/scopus_token.secret")
+hdr <- inst_token_header(token)

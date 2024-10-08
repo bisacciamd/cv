@@ -5,7 +5,7 @@ project:
 profile:
   default: english
   group: 
-    - [english, italian]
+    - [english, italian, full-en, full-it]
 
 website:
   title: "G. Bisaccia, MD, PhD"

@@ -230,3 +230,4 @@ csl: apa-cv.csl
 - Travel Grant, SCMR Conference, San Diego, USA \hfill Gennaio 2023
 - Riconoscimento «Percorso di Eccellenza» in Medicina e Chirurgia, Università G. d’Annunzio di Chieti e Pescara, Chieti, Italia \hfill Ottobre 2019
 :::
+
