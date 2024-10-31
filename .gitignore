@@ -6,4 +6,9 @@
 *.DS_Store
 .history/
 cv_output/raw/
+<<<<<<< HEAD
+_full.qmd
+data/
+=======
 full/
+>>>>>>> main
