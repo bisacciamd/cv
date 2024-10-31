@@ -1,8 +1,17 @@
 ---
+<<<<<<< HEAD
 # title: Publications, certifications and affiliations 
 format: quarto-cv-pdf
 author: Giandomenico Bisaccia, MD, PhD
 #subtitle: List of publications
+=======
+#title: Giandomenico Bisaccia
+format:
+  html: default
+  quarto-cv-pdf: 
+    hyperrefoptions: draft
+author: Giandomenico Bisaccia, MD, PhD
+>>>>>>> main
 date: last-modified
 #jobtitle: Early career medical researcher
 email: bisacciagiandomenico@gmail.com
@@ -18,10 +27,16 @@ fontawesome: yes
 nocite: '@*'
 validate-yaml: false
 csl: apa-cv.csl
+<<<<<<< HEAD
 execute: 
   freeze: false
 ---
 
 {{< include index.qmd >}}
 
+=======
+---
+
+{{< include index.qmd >}}
+>>>>>>> main
 {{< include supplement/index.qmd >}}

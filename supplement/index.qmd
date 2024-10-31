@@ -89,7 +89,11 @@ execute:
 
 # Peer Reviews
 ::: {.content-visible when-profile="english"}
+<<<<<<< HEAD
 Peer review activity for the following journals in the last 5 years:
+=======
+I did peer reviews for the following journals in the last 5 years:
+>>>>>>> main
 :::
 ::: {.content-visible when-profile="italian"}
 Attività di revisione paritaria per le seguenti riviste indicizzate:
@@ -286,6 +290,8 @@ I. Leo, **G. Bisaccia**, N. Miaris, M. C. Procopio, R. Licordari and C. Bucciare
 
 *Safety and Feasibility of Adenosine Stress CMR for CAV Detection in Orthotopic Heart Transplant Recipients*.
 **G. Bisaccia**, R. Licordari, I. Leo, G. La Vecchia, M. Perotto, M. C. Procopio, F. Ricci, S. Gallina, J. Wong and C. Bucciarelli-Ducci. [Presented at CMR 2024 London, UK (Jan 2024).]{.content-visible when-profile="english"} [Presentato a CMR 2024 (Gennaio 2024).]{.content-visible when-profile="italian"}
+
+**Diagnostic and Prognostic Value of Stress CMR Imaging to Evaluate Stable Chest Pain: A Twenty-Year Meta-Analysis**. **G. Bisaccia**, F. Ricci, M. Y. Khanji, S. Gallina, S. E. Petersen, C. Bucciarelli-Ducci. [Presented at SCMR 2023 San Diego, US (Jan 2023).]{.content-visible when-profile="english"} [Presentato a SCMR 2023 San Diego, Stati Uniti (Gennaio 2023).]{.content-visible when-profile="italian"}
 
 ## European Association of Cardiovascular Imaging
 

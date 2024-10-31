@@ -40,9 +40,9 @@ csl: apa-cv.csl
 
 - Honorary clinical research fellowship (full time)
   - Prepared initial reports for 300+ clinical CMR scans
-  - Conducted audit on stress CMR after heart transplantation
+  - Conducted an audit on stress CMR after heart transplantation
   - Researched on CMR in patients with angina, cardiomyopathies, and after heart transplantation
-  - Improved team productivity with coding skills
+  - Improved team productivity with data science and coding skills
 :::
 
 ::: {.content-visible when-profile="italian"}
@@ -81,7 +81,8 @@ csl: apa-cv.csl
 *G. d’Annunzio University of Chieti and Pescara, Chieti, Italy*
 
 - PhD (*Doctor Europaeus*) in Neuroscience and Imaging (marked: excellent) \hfill Oct 2021—Mar 2024
-   - Thesis title: *Value of Quantitative Stress Perfusion CMR in the Long-Term Assessment of Cardiac Transplantation Recipients* (international supervision, revision and examination; PhD defended in English)
+   - Thesis title: *Value of Quantitative Stress Perfusion CMR in the Long-Term Assessment of Cardiac Transplantation Recipients* 
+   - Supervised by Prof. S. Gallina and F. Ricci (Italy) and Prof. C. Bucciarelli-Ducci (UK), external assessment by Prof. A. Almeida (Portugal) and Prof. J. Garot (France), external examination by Prof. R. Manka (Switzerland) 
    - Co-authored 17 peer-reviewed publications
    - Supervised 12 undergraduate and 4 postgraduate students
    - Presented research findings for 7 original research studies at major international conferences
@@ -131,7 +132,7 @@ csl: apa-cv.csl
 
 *University of Padua, Italy* 
 
-- Lecture on CMR safety, MSc in Cardiac magnetic resonance imaging\hfill Jan 2024
+- Lecturer on CMR safety, MSc in Cardiac magnetic resonance imaging\hfill Jan 2024
 :::
 
 ::: {.content-visible when-profile="italian"}
@@ -142,7 +143,7 @@ csl: apa-cv.csl
 
 *Università di Padova, Italia* \hfill Gennaio 2024
 
-- Lezione a tema "Sicurezza in ambiente di risonanza magnetica", Master in Risonanza Magnetica Cardiaca
+- Docente a contratto sul tema "Sicurezza in ambiente di risonanza magnetica", Master in Risonanza Magnetica Cardiaca
 :::
 
 
