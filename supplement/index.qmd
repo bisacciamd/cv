@@ -89,11 +89,7 @@ execute:
 
 # Peer Reviews
 ::: {.content-visible when-profile="english"}
-<<<<<<< HEAD
 Peer review activity for the following journals in the last 5 years:
-=======
-I did peer reviews for the following journals in the last 5 years:
->>>>>>> main
 :::
 ::: {.content-visible when-profile="italian"}
 Attività di revisione paritaria per le seguenti riviste indicizzate:
