@@ -55,6 +55,7 @@ execute:
 # Professional affiliations
 
 - Member of the 
+  - British Cardiovascular Society \hfill 2024-present
   - American Heart Association \hfill 2023-present
   - American College of Cardiology (Fellow in Training) \hfill 2022-present
   - Society for Cardiovascular Magnetic Resonance (Early Career working group) \hfill 2022-present
@@ -63,6 +64,7 @@ execute:
   - Italian Society of Cardiology (CMR, Sex differences working groups) \hfill 2021-present
 
 - Other affiliations
+  - HTA working group, R consortium \hfill 2024-present
   - NHS-R Community \hfill 2024-present
   - IMSOGB - Italian Medical Society of Great Britain \hfill 2024-present
 :::
@@ -71,6 +73,7 @@ execute:
 # Affiliazioni
 
 - Membro delle seguenti associazioni e società scientifiche:
+  - British Cardiovascular Society \hfill 2024-presente
   - American Heart Association \hfill 2023-presente 
   - American College of Cardiology (Fellow in Training) \hfill 2022-presente
   - Society for Cardiovascular Magnetic Resonance (Early Career working group) \hfill 2022-presente
@@ -79,13 +82,18 @@ execute:
   - Società Italiana di Cardiologia (CMR, Sex differences WG) \hfill 2021-presente
 
 - Altre affiliazioni:
+  - HTA working group, R consortium \hfill 2024-presente
   - NHS-R Community \hfill 2024-presente
   - IMSOGB - Italian Medical Society of Great Britain \hfill 2024-presente
 :::
 
 # Peer Reviews
 ::: {.content-visible when-profile="english"}
+<<<<<<< HEAD
+Peer review activity for the following journals in the last 5 years:
+=======
 I did peer reviews for the following journals in the last 5 years:
+>>>>>>> main
 :::
 ::: {.content-visible when-profile="italian"}
 Attività di revisione paritaria per le seguenti riviste indicizzate:
@@ -109,18 +117,26 @@ Attività di revisione paritaria per le seguenti riviste indicizzate:
 #| error: false
 #| warning: false
 #| output: false
-library(bib2df)
-pubs <- length(bib2df("bibs/cv.bib")$BIBTEXKEY)
+source("scripts/scopus.R")
+query <- "authlast(Bisaccia) and authfirst(Giandomenico)"
+
+# interrogates Scopus API for my name and retrieves document count
+pubs <- tryCatch({
+    generic_elsevier_api(query = query, type = "search", search_type = "author", headers = hdr)$content$`search-results`$entry
+  }, error = function(e) {
+    NULL  # In case of an error, return NULL
+  })[[1]]$`document-count`
+
 ```
 
 ::: {.content-visible when-profile="english"}
-I have authored `r pubs` scientific publications, where I contributed to literature review, statistical analyses, manuscript drafting, and/or preparation of visual illustrations and figures. My publications may also be accessed on [NCBI](https://www.ncbi.nlm.nih.gov/myncbi/giandomenico.bisaccia.1/bibliography/public/).
+I have authored `r pubs` Scopus-indexed scientific publications, where I contributed to literature review, statistical analyses, manuscript drafting, and/or preparation of tables, visual illustrations, and figures. My publications may also be accessed on [NCBI](https://www.ncbi.nlm.nih.gov/myncbi/giandomenico.bisaccia.1/bibliography/public/).
 
 ## Original research
 :::
 
 ::: {.content-visible when-profile="italian"}
-Ho contribuito a `r pubs` pubblicazioni scientifiche effettuando revisioni della letteratura, analisi statistiche, la prima stesura del testo, e la preparazione di illustrazioni e figure. La lista delle mie pubblicazioni è disponibile online su [NCBI](https://www.ncbi.nlm.nih.gov/myncbi/giandomenico.bisaccia.1/bibliography/public/).
+Ho contribuito a `r pubs` pubblicazioni scientifiche (Scopus). In questi lavori, ho effettuato revisioni della letteratura, la prima stesura del testo, analisi statistiche, e la preparazione di tabelle, illustrazioni e figure. La lista delle mie pubblicazioni è disponibile online su [NCBI](https://www.ncbi.nlm.nih.gov/myncbi/giandomenico.bisaccia.1/bibliography/public/).
 
 ## Studi originali
 :::
