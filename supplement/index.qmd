@@ -55,6 +55,7 @@ execute:
 # Professional affiliations
 
 - Member of the 
+  - British Cardiovascular Society \hfill 2024-present
   - American Heart Association \hfill 2023-present
   - American College of Cardiology (Fellow in Training) \hfill 2022-present
   - Society for Cardiovascular Magnetic Resonance (Early Career working group) \hfill 2022-present
@@ -63,6 +64,7 @@ execute:
   - Italian Society of Cardiology (CMR, Sex differences working groups) \hfill 2021-present
 
 - Other affiliations
+  - HTA working group, R consortium \hfill 2024-present
   - NHS-R Community \hfill 2024-present
   - IMSOGB - Italian Medical Society of Great Britain \hfill 2024-present
 :::
@@ -71,6 +73,7 @@ execute:
 # Affiliazioni
 
 - Membro delle seguenti associazioni e società scientifiche:
+  - British Cardiovascular Society \hfill 2024-presente
   - American Heart Association \hfill 2023-presente 
   - American College of Cardiology (Fellow in Training) \hfill 2022-presente
   - Society for Cardiovascular Magnetic Resonance (Early Career working group) \hfill 2022-presente
@@ -79,6 +82,7 @@ execute:
   - Società Italiana di Cardiologia (CMR, Sex differences WG) \hfill 2021-presente
 
 - Altre affiliazioni:
+  - HTA working group, R consortium \hfill 2024-presente
   - NHS-R Community \hfill 2024-presente
   - IMSOGB - Italian Medical Society of Great Britain \hfill 2024-presente
 :::
@@ -109,7 +113,7 @@ Attività di revisione paritaria per le seguenti riviste indicizzate:
 #| error: false
 #| warning: false
 #| output: false
-source("./scripts/scopus.R")
+source("scripts/scopus.R")
 query <- "authlast(Bisaccia) and authfirst(Giandomenico)"
 
 # interrogates Scopus API for my name and retrieves document count
