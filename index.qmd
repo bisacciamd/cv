@@ -214,10 +214,10 @@ csl: apa-cv.csl
 # Grants, prizes and awards
 - Finalist, Early career award (clinical track), CMR 2024, London, UK \hfill January 2024
 - Participant to research unit, ULTRALIGHT-HCM study, Italian Ministry of Public Education (€ 299,604) \hfill July 2023
-- Early Career Investigator Travel Grant, AHA Scientific Sessions, Philadelphia, USA \hfill November 2023
-- Educational Grant, EACVI Conference, Barcelona, Spain \hfill May 2023
-- Travel Grant, SCMR Conference, San Diego, USA \hfill January 2023
-- «Path of Excellence» award in Medicine, University of Chieti and Pescara, Italy \hfill October 2019
+- Winner, Early Career Investigator Travel Grant, AHA Scientific Sessions, Philadelphia, USA \hfill November 2023
+- Winner, Educational Grant, EACVI Conference, Barcelona, Spain \hfill May 2023
+- Winner, Travel Grant, SCMR Conference, San Diego, USA \hfill January 2023
+- Awarded student, «Path of Excellence» in Medicine, University of Chieti and Pescara, Italy \hfill October 2019
 :::
 
 ::: {.content-visible when-profile="italian"}
@@ -225,8 +225,8 @@ csl: apa-cv.csl
 
 - Finalista, Early career award (clinical track), CMR 2024, Londra, Regno Unito \hfill Gennaio 2024
 - Partecipante ad unità di ricerca, studio ULTRALIGHT-HCM finanziato PRIN PNRR (€ 299.604) \hfill Luglio 2023
-- Early Career Investigator Travel Grant, AHA Scientific Sessions, Philadelphia, USA \hfill Novembre 2023
-- Educational Grant, EACVI Conference, Barcelona, Spain \hfill Maggio 2023
-- Travel Grant, SCMR Conference, San Diego, USA \hfill Gennaio 2023
+- Vincitore, Early Career Investigator Travel Grant, AHA Scientific Sessions, Philadelphia, USA \hfill Novembre 2023
+- Vincitore, Educational Grant, EACVI Conference, Barcelona, Spain \hfill Maggio 2023
+- Vincitore, Travel Grant, SCMR Conference, San Diego, USA \hfill Gennaio 2023
 - Riconoscimento «Percorso di Eccellenza» in Medicina e Chirurgia, Università G. d’Annunzio di Chieti e Pescara, Chieti, Italia \hfill Ottobre 2019
 :::
