@@ -87,6 +87,18 @@ execute:
   - IMSOGB - Italian Medical Society of Great Britain \hfill 2024-presente
 :::
 
+::: {.content-visible when-profile="english"}
+# Editorial activity 
+
+- Editor, SCMR Journal Watch (monthly newsletter «SCMR NewsBeat») \hfill 2024-present
+:::
+
+::: {.content-visible when-profile="italian"}
+# Attività editoriale
+
+- Editor, SCMR Journal Watch (newsletter mensile «SCMR NewsBeat») \hfill 2024-presente
+:::
+
 # Peer Reviews
 ::: {.content-visible when-profile="english"}
 Peer review activity for the following journals in the last 5 years:
