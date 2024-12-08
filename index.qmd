@@ -27,18 +27,21 @@ csl: apa-cv.csl
 
 *G. d’Annunzio University of Chieti and Pescara, Chieti, Italy* \hfill May 2024-present
 
-- Research fellow in cardiology
+- Resident in Cardiology \hfill November 2024-present
+  - Attending the local residency program covering major areas of cardiology
+
+- Research Fellow in Cardiology \hfill May 2024-October 2024
   - Supervised clinical research with focus on clinical applications of cardiovascular magnetic resonance imaging (CMR)
-  - Coordination of undergraduate and postgraduate students
+  - Coordinated of undergraduate and postgraduate students
 
 *Royal Brompton Hospital, London, UK* \hfill May 2023—present
 
-- Honorary clinical research fellowship (part-time)
-   - Supervised clinical research on quantitative stress perfusion CMR, ischaemic and nonischaemic cardiomyopathies, CMR guidance to percutaneous revascularization
+- Honorary Clinical Research Fellow (part-time)
+   - Supervising clinical research on clinical applications of CMR, including quantitative stress perfusion CMR, ischaemic and nonischaemic cardiomyopathies, and guidance to myocardial revascularization
 
 *Harefield Hospital, London, UK* \hfill Sept 2022—May 2023
 
-- Honorary clinical research fellowship (full time)
+- Honorary Clinical Research Fellowship (full time)
   - Prepared initial reports for 300+ clinical CMR scans
   - Conducted an audit on stress CMR after heart transplantation
   - Researched on CMR in patients with angina, cardiomyopathies, and after heart transplantation
@@ -50,18 +53,18 @@ csl: apa-cv.csl
 
 *Università G. d’Annunzio di Chieti e Pescara, Chieti, Italia* \hfill Maggio 2024-presente
 
-- Assegnista di ricerca in malattie dell'apparato cardiovascolare (SSD MED/11)
+- Assegnista di Ricerca in Malattie dell'Apparato Cardiovascolare (SSD MED/11)
   - Linee di ricerca: risonanza magnetica cardiaca (CMR) da stress, cardiomiopatie ischemiche e nonischemiche
   - Supervisione e coordinamento di tesisti e medici in formazione
 
 *Royal Brompton Hospital, Londra, Regno Unito* \hfill Mag 2023—presente
 
-- Honorary clinical research fellowship (part-time)
+- Honorary Clinical Research Fellow (part-time)
    - Linee di ricerca: stress CMR, rivascolarizzazione miocardica percutanea
 
 *Harefield Hospital, Londra, Regno Unito* \hfill Settembre 2022—Mag 2023
 
-- Honorary clinical research fellowship (a tempo pieno)
+- Honorary Clinical Research Fellow (a tempo pieno)
   - Preparazione di 300+ report preliminari di studi clinici di CMR
   - Conduzione di un audit clinico sul profilo di *safety* e *feasibility* della stress CMR nei pazienti con pregresso trapianto cardiaco
   - Attività di ricerca: utilità clinica della CMR in pazienti con dolore toracico e cardiomiopatie
@@ -82,7 +85,9 @@ csl: apa-cv.csl
 
 - PhD (*Doctor Europaeus*) in Neuroscience and Imaging (marked: excellent) \hfill Oct 2021—Mar 2024
    - Thesis title: *Value of Quantitative Stress Perfusion CMR in the Long-Term Assessment of Cardiac Transplantation Recipients* 
-   - Supervised by Prof. S. Gallina and F. Ricci (Italy) and Prof. C. Bucciarelli-Ducci (UK), external assessment by Prof. A. Almeida (Portugal) and Prof. J. Garot (France), external examination by Prof. R. Manka (Switzerland) 
+   - Supervised by Prof. S. Gallina and F. Ricci (University of Chieti, Italy) and Prof. C. Bucciarelli-Ducci (Royal Brompton and Harefield Hospitals and Imperial College London, UK)
+   - External assessment by Prof. A. Almeida (University of Lisbon, Portugal) and Prof. J. Garot (Institut Cardiovasculaire Paris Sud, France), 
+   - Examination by Prof. R. Manka (University Hospital Zurich, Switzerland) 
    - Co-authored 17 peer-reviewed publications
    - Supervised 12 undergraduate and 4 postgraduate students
    - Presented research findings for 7 original research studies at major international conferences
@@ -132,7 +137,9 @@ csl: apa-cv.csl
 
 *University of Padua, Italy* 
 
-- Lecturer on CMR safety, MSc in Cardiac magnetic resonance imaging\hfill Jan 2024
+- Lecturer, Master in Cardiovascular Magnetic Resonance (course convenor: Prof. M. Perazzolo Marra)
+  - "Principal investigation protocols in CMR" \hfill 2025
+  -  "CMR safety" \hfill 2024-2025
 :::
 
 ::: {.content-visible when-profile="italian"}
@@ -141,15 +148,18 @@ csl: apa-cv.csl
 
 - Cultore della materia, Attività didattica opzionale "Applicazioni cliniche della risonanza magnetica cardiaca", Corso di Laurea in Tecniche di Radiologia Medica, per Immagini e Radioterapia
 
-*Università di Padova, Italia* \hfill Gennaio 2024
+*Università di Padova, Italia* 
 
-- Docente a contratto sul tema "Sicurezza in ambiente di risonanza magnetica", Master in Risonanza Magnetica Cardiaca
+- Docente presso il Master "Risonanza magnetica cardiaca: dall’acquisizione delle immagini alla refertazione" (Direzione: Prof.ssa M. Perazzolo Marra) sui seguenti temi:
+  - "Principal investigation protocols in CMR" \hfill 2025
+  -  "CMR safety" \hfill 2024-2025
 :::
 
 
 ::: {.content-visible when-profile="english"}
 # Professional licenses
 
+- Undergoing the EACVI CMR Level 3 certification pathway (passed the written component) \hfill November 2024
 - Good Clinical Practice certification. *National Institute for Health and Care Research*, London, UK \hfill Oct 2022
 - UK General Medical Council, reference number 8023039 \hfill Feb 2023
 - "Ordine dei Medici-Chirurghi ed Odontoiatri", Chieti, Italy, medical license number 5690 \hfill May 2021
@@ -158,6 +168,7 @@ csl: apa-cv.csl
 ::: {.content-visible when-profile="italian"}
 # Licenze professionali
 
+- Certificazione EACVI CMR di livello 3 (in corso, superata la prova scritta) \hfill Novembre 2024
 - Good Clinical Practice certification. *National Institute for Health and Care Research*, Londra, Regno Unito \hfill Ottobre 2022
 - Abilitazione alla professione di medico-chirurgo
   - Regno Unito: General Medical Council, numero di iscrizione 8023039 \hfill Febbraio 2023
@@ -172,12 +183,8 @@ csl: apa-cv.csl
   - cost-effectiveness analysis and health technology assessment
 
 - Data science and IT
-  - Strong modelling and data visualization skills in R 
-  - Dynamic, reproducible reporting in Quarto
-  - Development and deployment of server-based Shiny applications
-  - Experienced Git and Github user
-  - Experienced REDCap user
-  - Proficient in Microsoft Word, Excel, Powerpoint
+  - Strong data science skills with specific expertise in R, Quarto, Shiny, Git, creation and maintainance of REDCap projects
+  - I publish code on [Github](https://github.com/bisacciamd)
 
 - English language 
   - International English Language Testing System (IELTS) \hfill Nov 2023
@@ -195,12 +202,8 @@ csl: apa-cv.csl
   - analisi di costo-efficacia e health technology assessment
 
 - Data science e competenze informatiche
-  - Competenze avanzate di visualizzazione dati e modelling in R
-  - Reporting dinamico, riproducibile in Quarto
-  - Sviluppo di applicazioni Shiny
-  - Utente esperto di Git e Github
-  - Utente esperto di REDCap
-  - Utente esperto di Word, Excel, Powerpoint
+  - Competenze avanzate di data science con R, Quarto, Shiny, Git, creazione e manutenzione di  progetti su piattaforma REDCap
+  - Pubblico il mio codice su [Github](https://github.com/bisacciamd)
 
 - Lingua inglese
   - International English Language Testing System (IELTS) \hfill Novembre 2023
@@ -209,6 +212,22 @@ csl: apa-cv.csl
     - Inglese medico. Listening A; Reading A; Speaking B; Writing B (scored E to A) 
 :::
 
+::: {.content-visible when-profile="english"}
+# Editorial and peer review activity 
+
+- Editor, SCMR Journal Watch (monthly newsletter «SCMR NewsBeat») \hfill 2024-present
+  - I conceived, proposed, and presently lead the monthly Research component of the official SCMR newsletter, SCMR NewsBeat
+- Reviewer for ACC.25 \hfill October 2024
+- Peer review activity for the European Heart Journal, Open Heart, Journal of Clinical Medicine, Frontiers in Public Health, Medicina, and Children \hfill 2022-present
+:::
+
+::: {.content-visible when-profile="italian"}
+# Attività editoriale e di peer review
+
+- Editor, SCMR Journal Watch (newsletter mensile ufficiale della Society of Cardiovascular Magnetic Resonance) \hfill 2024-present
+- Reviewer, ACC.25 \hfill October 2024
+- Attività di peer review per European Heart Journal, Open Heart, Journal of Clinical Medicine, Frontiers in Public Health, Medicina, e Children \hfill 2022-present
+:::
 
 ::: {.content-visible when-profile="english"}
 # Grants, prizes and awards
