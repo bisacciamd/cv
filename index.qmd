@@ -1,20 +1,15 @@
 ---
-#title: Giandomenico Bisaccia
+#title: 
 format:
   html: default
   quarto-cv-pdf: 
     hyperrefoptions: draft
 author: Giandomenico Bisaccia, MD, PhD
 date: last-modified
-#jobtitle: Early career medical researcher
 email: bisacciagiandomenico@gmail.com
-#phone: '+39 350 533 1123'
 fontsize: 11pt
-#fontfamily: ebgaramond-maths # default font LaTeX package https://tug.org/FontCatalogue/about.html
-#mainfont: Ubuntu # if you want to use a different locally installed font
 orcid: 0000-0003-4606-3093 # orcid identifier
 linkedin: bisacciamd
-#twitter: twitter # twitter handle
 web: 'bisacciamd.com'
 fontawesome: yes
 nocite: '@*'
@@ -22,230 +17,24 @@ validate-yaml: false
 csl: apa-cv.csl
 ---
 
-::: {.content-visible when-profile="english"}
-# Experience
+{{< include _experience.qmd >}}
 
-*G. d’Annunzio University of Chieti and Pescara, Chieti, Italy* \hfill May 2024-present
-
-- Resident in Cardiology \hfill November 2024-present
-  - Attending the local residency program covering major areas of cardiology
-
-- Research Fellow in Cardiology \hfill May 2024-October 2024
-  - Supervised clinical research with focus on clinical applications of cardiovascular magnetic resonance imaging (CMR)
-  - Coordinated of undergraduate and postgraduate students
-
-*Royal Brompton Hospital, London, UK* \hfill May 2023—present
-
-- Honorary Clinical Research Fellow (part-time)
-   - Supervising clinical research on clinical applications of CMR, including quantitative stress perfusion CMR, ischaemic and nonischaemic cardiomyopathies, and guidance to myocardial revascularization
-
-*Harefield Hospital, London, UK* \hfill Sept 2022—May 2023
-
-- Honorary Clinical Research Fellowship (full time)
-  - Prepared initial reports for 300+ clinical CMR scans
-  - Conducted an audit on stress CMR after heart transplantation
-  - Researched on CMR in patients with angina, cardiomyopathies, and after heart transplantation
-  - Improved team productivity with data science and coding skills
-:::
-
-::: {.content-visible when-profile="italian"}
-# Esperienza
-
-*Università G. d’Annunzio di Chieti e Pescara, Chieti, Italia* \hfill Maggio 2024-presente
-
-- Assegnista di Ricerca in Malattie dell'Apparato Cardiovascolare (SSD MED/11)
-  - Linee di ricerca: risonanza magnetica cardiaca (CMR) da stress, cardiomiopatie ischemiche e nonischemiche
-  - Supervisione e coordinamento di tesisti e medici in formazione
-
-*Royal Brompton Hospital, Londra, Regno Unito* \hfill Mag 2023—presente
-
-- Honorary Clinical Research Fellow (part-time)
-   - Linee di ricerca: stress CMR, rivascolarizzazione miocardica percutanea
-
-*Harefield Hospital, Londra, Regno Unito* \hfill Settembre 2022—Mag 2023
-
-- Honorary Clinical Research Fellow (a tempo pieno)
-  - Preparazione di 300+ report preliminari di studi clinici di CMR
-  - Conduzione di un audit clinico sul profilo di *safety* e *feasibility* della stress CMR nei pazienti con pregresso trapianto cardiaco
-  - Attività di ricerca: utilità clinica della CMR in pazienti con dolore toracico e cardiomiopatie
-
-:::
-
-::: {.content-visible when-profile="english"}
-
-# Education
-
-*London School of Economics, London, UK* \hfill Dec 2023—Dec 2025
-
-- MSc in Health Economics, Outcomes and Management in Clinical Sciences (class of 2025)
-  - Taught modules included Economic Analysis for Health Policy (distinction), Quality and Outcomes in Clinical Sciences (distinction), Economic Evaluation in Health Care, and Fundamentals of Management and Leadership (under assessment)
-  - Volunteered as the class Clinical Student Representative for 2023/24
-
-*G. d’Annunzio University of Chieti and Pescara, Chieti, Italy*
-
-- PhD (*Doctor Europaeus*) in Neuroscience and Imaging (marked: excellent) \hfill Oct 2021—Mar 2024
-   - Thesis title: *Value of Quantitative Stress Perfusion CMR in the Long-Term Assessment of Cardiac Transplantation Recipients* 
-   - Supervised by Prof. S. Gallina and F. Ricci (University of Chieti, Italy) and Prof. C. Bucciarelli-Ducci (Royal Brompton and Harefield Hospitals and Imperial College London, UK)
-   - External assessment by Prof. A. Almeida (University of Lisbon, Portugal) and Prof. J. Garot (Institut Cardiovasculaire Paris Sud, France), 
-   - Examination by Prof. R. Manka (University Hospital Zurich, Switzerland) 
-   - Co-authored 17 peer-reviewed publications
-   - Supervised 12 undergraduate and 4 postgraduate students
-   - Presented research findings for 7 original research studies at major international conferences
-
-- Master's Degree in Medicine (summa cum laude) \hfill Oct 2014—Apr 2021 
-    - Thesis title: *CMR Reference Values of Mitral and Tricuspid Annular Dimensions: the UK BioBank Cohort* 
-    - MD-PhD research track \hfill Nov 2019-Ott 2020
-    - Path of Excellence research track \hfill Ott 2016—Ott 2019
-:::
-
-::: {.content-visible when-profile="italian"}
-
-# Istruzione
-
-*London School of Economics, Londra, Regno Unito* \hfill Dicembre 2023—Dicembre 2025
-
-- MSc in Health Economics, Outcomes and Management in Clinical Sciences (classe del 2025)
-  - Corsi frequentati: Economic Analysis for Health Policy (distinction), Quality and Outcomes in Clinical Sciences (distinction), Economic Evaluation in Health Care, e Fundamentals of Management and Leadership (valutazione in corso)
-  - Rappresentante di classe volontario per l'anno accademico 2023/24
-
-*Università G. d'Annunzio di Chieti e Pescara, Chieti, Italia*
-
-- Dottorato in Neuroscienze e Imaging (Doctor Europaeus, SSD: MED/11) \hfill Ottobre 2021—Marzo 2024
-
-   Tesi: *Value of Quantitative Stress Perfusion CMR in the Long-Term Assessment of Cardiac Transplantation Recipients*
-   
-   Qualifica aggiuntiva: *Doctor Europaeus* (internazionalità del progetto, dei supervisori e dei revisori; tesi discussa in lingua inglese)
-
-   - Autore di 17 pubblicazioni peer-reviewed
-   - Correlatore di 12 laureandi e 4 medici in formazione specialistica
-   
-- Laurea magistrale in Medicina e Chirurgia (LM-41, 110 e lode) \hfill Ottobre 2014—Aprile 2021
-  
-  - Tesi: *CMR Reference Values of Mitral and Tricuspid Annular Dimensions: the UK BioBank Cohort* (SSD MED/11)
-  - Percorso MD-PhD di ricerca clinica \hfill Nov 2019-Ott 2020
-  - Percorso di Eccellenza in Medicina \hfill Ott 2016—Ott 2019
-
-:::
+{{< include _education.qmd >}}
 
 \newpage
 
-::: {.content-visible when-profile="english"}
-# Teaching
-*G. d’Annunzio University of Chieti and Pescara, Chieti, Italy*
+{{< include _teaching.qmd >}}
 
-- Honorary teaching assistant in clinical applications of CMR, Undergraduate radiographer course \hfill May 2024
+{{< include _licenses.qmd >}}
 
-*University of Padua, Italy* 
+{{< include _skills.qmd >}}
 
-- Lecturer, Master in Cardiovascular Magnetic Resonance (course convenor: Prof. M. Perazzolo Marra)
-  - "Principal investigation protocols in CMR" \hfill 2025
-  -  "CMR safety" \hfill 2024-2025
-:::
+{{< include _peer-review.qmd >}}
 
-::: {.content-visible when-profile="italian"}
-# Attività di insegnamento
-*Università G. d'Annunzio di Chieti e Pescara, Chieti, Italia* \hfill Maggio 2024
+{{< include _publications.qmd >}}
 
-- Cultore della materia, Attività didattica opzionale "Applicazioni cliniche della risonanza magnetica cardiaca", Corso di Laurea in Tecniche di Radiologia Medica, per Immagini e Radioterapia
+{{< include _grants.qmd >}}
 
-*Università di Padova, Italia* 
+{{< include _prizes.qmd >}}
 
-- Docente presso il Master "Risonanza magnetica cardiaca: dall’acquisizione delle immagini alla refertazione" (Direzione: Prof.ssa M. Perazzolo Marra) sui seguenti temi:
-  - "Principal investigation protocols in CMR" \hfill 2025
-  -  "CMR safety" \hfill 2024-2025
-:::
-
-
-::: {.content-visible when-profile="english"}
-# Professional licenses
-
-- Undergoing the EACVI CMR Level 3 certification pathway (passed the written component) \hfill November 2024
-- Good Clinical Practice certification. *National Institute for Health and Care Research*, London, UK \hfill Oct 2022
-- UK General Medical Council, reference number 8023039 \hfill Feb 2023
-- "Ordine dei Medici-Chirurghi ed Odontoiatri", Chieti, Italy, medical license number 5690 \hfill May 2021
-:::
-
-::: {.content-visible when-profile="italian"}
-# Licenze professionali
-
-- Certificazione EACVI CMR di livello 3 (in corso, superata la prova scritta) \hfill Novembre 2024
-- Good Clinical Practice certification. *National Institute for Health and Care Research*, Londra, Regno Unito \hfill Ottobre 2022
-- Abilitazione alla professione di medico-chirurgo
-  - Regno Unito: General Medical Council, numero di iscrizione 8023039 \hfill Febbraio 2023
-  - Italia: Ordine dei Medici-Chirurghi ed Odontoiatri di Chieti, numero di iscrizione 5690 \hfill Maggio 2021
-:::
-
-::: {.content-visible when-profile="english"}
-# Professional and language skills
-
-- Clinical research
-  - systematic review and meta-analysis (5 published), diagnostic studies (accuracy, clinical utility), prognostic studies (survival analysis and modeling)
-  - cost-effectiveness analysis and health technology assessment
-
-- Data science and IT
-  - Strong data science skills with specific expertise in R, Quarto, Shiny, Git, creation and maintainance of REDCap projects
-  - I publish code on [Github](https://github.com/bisacciamd)
-
-- English language 
-  - International English Language Testing System (IELTS) \hfill Nov 2023
-    - Academic english. Listening 9.0; Reading 9.0; Speaking 8.5; Writing 7.5 (scored 1 to 10)
-  - Occupational English Test (OET) \hfill Feb 2023
-    - Medical english. Listening A; Reading A; Speaking B; Writing B (scored E to A) 
-
-:::
-
-::: {.content-visible when-profile="italian"}
-# Competenze professionali e di lingua
-
-- Ricerca clinica
-  - revisione sistematica e meta-analisi (5 pubblicate), studi diagnostici (accuratezza, utilità clinica), studi prognostici (data scraping, analisi di sopravvivenza)
-  - analisi di costo-efficacia e health technology assessment
-
-- Data science e competenze informatiche
-  - Competenze avanzate di data science con R, Quarto, Shiny, Git, creazione e manutenzione di  progetti su piattaforma REDCap
-  - Pubblico il mio codice su [Github](https://github.com/bisacciamd)
-
-- Lingua inglese
-  - International English Language Testing System (IELTS) \hfill Novembre 2023
-    - Inglese accademico. Listening 9.0; Reading 9.0; Speaking 8.5; Writing 7.5 (scored 1 to 10)
-  - Occupational English Test (OET) \hfill Febbraio 2023
-    - Inglese medico. Listening A; Reading A; Speaking B; Writing B (scored E to A) 
-:::
-
-::: {.content-visible when-profile="english"}
-# Editorial and peer review activity 
-
-- Editor, SCMR Journal Watch (monthly newsletter «SCMR NewsBeat») \hfill 2024-present
-  - I conceived, proposed, and presently lead the monthly Research component of the official SCMR newsletter, SCMR NewsBeat
-- Reviewer for ACC.25 \hfill October 2024
-- Peer review activity for the European Heart Journal, Open Heart, Journal of Clinical Medicine, Frontiers in Public Health, Medicina, and Children \hfill 2022-present
-:::
-
-::: {.content-visible when-profile="italian"}
-# Attività editoriale e di peer review
-
-- Editor, SCMR Journal Watch (newsletter mensile ufficiale della Society of Cardiovascular Magnetic Resonance) \hfill 2024-present
-- Reviewer, ACC.25 \hfill October 2024
-- Attività di peer review per European Heart Journal, Open Heart, Journal of Clinical Medicine, Frontiers in Public Health, Medicina, e Children \hfill 2022-present
-:::
-
-::: {.content-visible when-profile="english"}
-# Grants, prizes and awards
-- Finalist, Early career award (clinical track), CMR 2024, London, UK \hfill January 2024
-- Participant to research unit, ULTRALIGHT-HCM study, Italian Ministry of Public Education (€ 299,604) \hfill July 2023
-- Winner, Early Career Investigator Travel Grant, AHA Scientific Sessions, Philadelphia, USA \hfill November 2023
-- Winner, Educational Grant, EACVI Conference, Barcelona, Spain \hfill May 2023
-- Winner, Travel Grant, SCMR Conference, San Diego, USA \hfill January 2023
-- Awarded student, «Path of Excellence» in Medicine, University of Chieti and Pescara, Italy \hfill October 2019
-:::
-
-::: {.content-visible when-profile="italian"}
-# Grant, premi e riconoscimenti
-
-- Finalista, Early career award (clinical track), CMR 2024, Londra, Regno Unito \hfill Gennaio 2024
-- Partecipante ad unità di ricerca, studio ULTRALIGHT-HCM finanziato PRIN PNRR (€ 299.604) \hfill Luglio 2023
-- Vincitore, Early Career Investigator Travel Grant, AHA Scientific Sessions, Philadelphia, USA \hfill Novembre 2023
-- Vincitore, Educational Grant, EACVI Conference, Barcelona, Spain \hfill Maggio 2023
-- Vincitore, Travel Grant, SCMR Conference, San Diego, USA \hfill Gennaio 2023
-- Riconoscimento «Percorso di Eccellenza» in Medicina e Chirurgia, Università G. d’Annunzio di Chieti e Pescara, Chieti, Italia \hfill Ottobre 2019
-:::
+{{< include _courses.qmd >}}

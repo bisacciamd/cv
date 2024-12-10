@@ -1,0 +1,31 @@
+::: {.content-visible when-profile="english"}
+# Editorial activity 
+
+- Editor, SCMR Journal Watch (monthly newsletter «SCMR NewsBeat») \hfill 2024-present
+:::
+
+::: {.content-visible when-profile="italian"}
+# Attività editoriale
+
+- Editor, SCMR Journal Watch (newsletter mensile «SCMR NewsBeat») \hfill 2024-presente
+:::
+
+# Peer Reviews
+::: {.content-visible when-profile="english"}
+## Conferences
+
+- Moderator, SCMR 2025, Washington, USA
+- Abstract reviewer, ACC.25, Chicago, USA
+
+## Journals
+Peer review activity for the following journals in the last 5 years: European Heart Journal, Open Heart, Journal of Clinical Medicine, Frontiers in Public Health, Medicina, Children
+:::
+
+::: {.content-visible when-profile="italian"}
+## Congressi
+- SCMR 2025, Washington, Stati Uniti
+- ACC.25, Chicago, Stati Uniti
+
+## Riviste indicizzate
+Attività di revisione paritaria per le seguenti riviste indicizzate: European Heart Journal, Open Heart, Journal of Clinical Medicine, Frontiers in Public Health, Medicina, Children
+:::

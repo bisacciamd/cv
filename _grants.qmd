@@ -1,0 +1,15 @@
+::: {.content-visible when-profile="english"}
+# Grants
+- BCS-Heart Research UK Clinical Fellowship Scheme (£16,000) \hfill December 2024
+    - Co-applicant for Harefield Hospital to undertake a weekly site visit to the CMR Unit at Brigham and Womens' Hospital and Harvard Medical School, Boston, Massachussets, USA, with the aim to familiarise with AI-powered, automated, accelerated cardiac MRI acquisition software
+- Italian Ministry of Public Education (€ 299,604) \hfill July 2023
+    - Participant to research unit in the ULTRALIGHT-HCM study, designed to perform deep cardiovascular phenotyping on athletes with left ventricular hypertrophy undergoing cardiac MRI and advanced genetic testing to identify features predictive of hypertrophic cardiomyopathy
+:::
+
+::: {.content-visible when-profile="italian"}
+# Grant
+- BCS-Heart Research UK Clinical Fellowship Scheme (co-applicant) \hfill December 2024
+    - Site visit settimanale presso il Brigham and Womens' Hospital e la Harvard Medical School, Boston, Massachussets, USA, allo scopo di familiarizzare con un sistema di acquisizione di immagini di risonanza magnetica basato su intelligenza artificiale (importo finanziato £16,000)
+- PRIN PNRR 2022 (Partecipante ad unità di ricerca) \hfill Luglio 2023
+    - Studio ULTRALIGHT-HCM per la fenotipizzazione avanzata, mediante imaging con risonanza magnetica cardiaca e test genetico, di atleti con ipertrofia ventricolare sospetta per cardiomiopatia ipertrofica (importo finanziato €299,604) 
+:::
