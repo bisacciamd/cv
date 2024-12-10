@@ -1,0 +1,18 @@
+::: {.content-visible when-profile="english"}
+# Professional licenses
+
+- Undergoing the EACVI CMR Level 3 certification pathway (passed the written component) \hfill November 2024
+- Good Clinical Practice certification. *National Institute for Health and Care Research*, London, UK \hfill Oct 2022
+- UK General Medical Council, reference number 8023039 \hfill Feb 2023
+- "Ordine dei Medici-Chirurghi ed Odontoiatri", Chieti, Italy, medical license number 5690 \hfill May 2021
+:::
+
+::: {.content-visible when-profile="italian"}
+# Licenze professionali
+
+- Certificazione EACVI CMR di livello 3 (in corso, superata la prova scritta) \hfill Novembre 2024
+- Good Clinical Practice certification. *National Institute for Health and Care Research*, Londra, Regno Unito \hfill Ottobre 2022
+- Abilitazione alla professione di medico-chirurgo
+  - Regno Unito: General Medical Council, numero di iscrizione 8023039 \hfill Febbraio 2023
+  - Italia: Ordine dei Medici-Chirurghi ed Odontoiatri di Chieti, numero di iscrizione 5690 \hfill Maggio 2021
+:::

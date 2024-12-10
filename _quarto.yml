@@ -16,9 +16,6 @@ website:
       - icon: file-earmark-text
         text: CV
         href: index.qmd
-      - icon: paperclip
-        text: Supplement
-        href: supplement/index.qmd
     right:
       - text: Portfolio website
         href: https://bisacciamd.com
@@ -36,4 +33,4 @@ format:
 #    reference-doc: custom-reference-doc.docx
 csl: jacc-cvi.csl
 execute: 
-  freeze: true
+  freeze: false

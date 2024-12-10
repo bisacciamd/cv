@@ -1,0 +1,36 @@
+::: {.content-visible when-profile="english"}
+# Professional and language skills
+
+- Clinical research
+  - systematic review and meta-analysis (5 published), diagnostic studies (accuracy, clinical utility), prognostic studies (survival analysis and modeling)
+  - cost-effectiveness analysis and health technology assessment
+
+- Data science and IT
+  - Strong data science skills with specific expertise in R, Quarto, Shiny, Git, creation and maintainance of REDCap projects
+  - I publish code on [Github](https://github.com/bisacciamd)
+
+- English language 
+  - International English Language Testing System (IELTS) \hfill Nov 2023
+    - Academic english. Listening 9.0; Reading 9.0; Speaking 8.5; Writing 7.5 (scored 1 to 10)
+  - Occupational English Test (OET) \hfill Feb 2023
+    - Medical english. Listening A; Reading A; Speaking B; Writing B (scored E to A) 
+
+:::
+
+::: {.content-visible when-profile="italian"}
+# Competenze professionali e di lingua
+
+- Ricerca clinica
+  - revisione sistematica e meta-analisi (5 pubblicate), studi diagnostici (accuratezza, utilità clinica), studi prognostici (data scraping, analisi di sopravvivenza)
+  - analisi di costo-efficacia e health technology assessment
+
+- Data science e competenze informatiche
+  - Competenze avanzate di data science con R, Quarto, Shiny, Git, creazione e manutenzione di  progetti su piattaforma REDCap
+  - Pubblico il mio codice su [Github](https://github.com/bisacciamd)
+
+- Lingua inglese
+  - International English Language Testing System (IELTS) \hfill Novembre 2023
+    - Inglese accademico. Listening 9.0; Reading 9.0; Speaking 8.5; Writing 7.5 (scored 1 to 10)
+  - Occupational English Test (OET) \hfill Febbraio 2023
+    - Inglese medico. Listening A; Reading A; Speaking B; Writing B (scored E to A) 
+:::

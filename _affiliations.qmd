@@ -1,0 +1,36 @@
+
+::: {.content-visible when-profile="english"}
+# Professional affiliations
+
+- Member of the 
+  - British Cardiovascular Society \hfill 2024-present
+  - American Heart Association \hfill 2023-present
+  - American College of Cardiology (Fellow in Training) \hfill 2022-present
+  - Society for Cardiovascular Magnetic Resonance (Early Career working group) \hfill 2022-present
+  - European Society of Cardiology (Professional member) \hfill 2021-present
+  - European Association of Cardiovascular Imaging \hfill 2021-present
+  - Italian Society of Cardiology (CMR, Sex differences working groups) \hfill 2021-present
+
+- Other affiliations
+  - HTA working group, R consortium \hfill 2024-present
+  - NHS-R Community \hfill 2024-present
+  - IMSOGB - Italian Medical Society of Great Britain \hfill 2024-present
+:::
+
+::: {.content-visible when-profile="italian"}
+# Affiliazioni
+
+- Membro delle seguenti associazioni e società scientifiche:
+  - British Cardiovascular Society \hfill 2024-presente
+  - American Heart Association \hfill 2023-presente 
+  - American College of Cardiology (Fellow in Training) \hfill 2022-presente
+  - Society for Cardiovascular Magnetic Resonance (Early Career working group) \hfill 2022-presente
+  - European Society of Cardiology (Professional member) \hfill2021-presente
+  - European Association of Cardiovascular Imaging \hfill 2021-presente 
+  - Società Italiana di Cardiologia (CMR, Sex differences WG) \hfill 2021-presente
+
+- Altre affiliazioni:
+  - HTA working group, R consortium \hfill 2024-presente
+  - NHS-R Community \hfill 2024-presente
+  - IMSOGB - Italian Medical Society of Great Britain \hfill 2024-presente
+:::
