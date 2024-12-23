@@ -1,26 +1,29 @@
 
 ::: {.content-visible when-profile="english"}
 # Teaching
+*University of Padua, Italy* 
+
+- Lecturer, MSc in Cardiovascular Magnetic Resonance (course convenor: Prof. M. Perazzolo Marra)
+  - "Principal investigation protocols in CMR" \hfill 2025
+  -  "CMR safety" \hfill 2024-2025
+
 *G. d’Annunzio University of Chieti and Pescara, Chieti, Italy*
 
 - Honorary teaching assistant in clinical applications of CMR, Undergraduate radiographer course \hfill May 2024
 
-*University of Padua, Italy* 
-
-- Lecturer, Master in Cardiovascular Magnetic Resonance (course convenor: Prof. M. Perazzolo Marra)
-  - "Principal investigation protocols in CMR" \hfill 2025
-  -  "CMR safety" \hfill 2024-2025
 :::
 
 ::: {.content-visible when-profile="italian"}
 # Attività di insegnamento
-*Università G. d'Annunzio di Chieti e Pescara, Chieti, Italia* \hfill Maggio 2024
-
-- Cultore della materia, Attività didattica opzionale "Applicazioni cliniche della risonanza magnetica cardiaca", Corso di Laurea in Tecniche di Radiologia Medica, per Immagini e Radioterapia
 
 *Università di Padova, Italia* 
 
 - Docente presso il Master "Risonanza magnetica cardiaca: dall’acquisizione delle immagini alla refertazione" (Direzione: Prof.ssa M. Perazzolo Marra) sui seguenti temi:
   - "Principal investigation protocols in CMR" \hfill 2025
   -  "CMR safety" \hfill 2024-2025
+
+*Università G. d'Annunzio di Chieti e Pescara, Chieti, Italia* \hfill Maggio 2024
+
+- Cultore della materia, Attività didattica opzionale "Applicazioni cliniche della risonanza magnetica cardiaca", Corso di Laurea in Tecniche di Radiologia Medica, per Immagini e Radioterapia
+
 :::

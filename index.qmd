@@ -29,14 +29,12 @@ csl: apa-cv.csl
 
 {{< include _skills.qmd >}}
 
-{{< include _peer-review.qmd >}}
+{{< include _courses.qmd >}}
 
-\newpage
+{{< include _peer-review.qmd >}}
 
 {{< include _publications.qmd >}}
 
 {{< include _grants.qmd >}}
 
 {{< include _prizes.qmd >}}
-
-{{< include _courses.qmd >}}

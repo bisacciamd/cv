@@ -18,14 +18,14 @@
 - Abstract reviewer, ACC.25, Chicago, USA
 
 ## Journals
-Peer review activity for the following journals in the last 5 years: European Heart Journal, Open Heart, Journal of Clinical Medicine, Frontiers in Public Health, Medicina, Children
+Peer review activity for the following journals in the last 5 years: European Heart Journal, The International Journal of Cardiovascular Imaging, Open Heart, Journal of Clinical Medicine, Frontiers in Public Health, Medicina, Children
 :::
 
 ::: {.content-visible when-profile="italian"}
 ## Congressi
-- SCMR 2025, Washington, Stati Uniti
-- ACC.25, Chicago, Stati Uniti
+- Moderator, SCMR 2025, Washington, Stati Uniti
+- Revisore di abstract, ACC.25, Chicago, Stati Uniti
 
 ## Riviste indicizzate
-Attività di revisione paritaria per le seguenti riviste indicizzate: European Heart Journal, Open Heart, Journal of Clinical Medicine, Frontiers in Public Health, Medicina, Children
+Attività di revisione paritaria per le seguenti riviste indicizzate: European Heart Journal, The International Journal of Cardiovascular Imaging, Open Heart, Journal of Clinical Medicine, Frontiers in Public Health, Medicina, Children
 :::
