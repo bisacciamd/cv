@@ -1,5 +1,5 @@
 ::: {.content-visible when-profile="english"}
-# Professional licenses
+# Licenses
 
 - Undergoing the EACVI CMR Level 3 certification pathway (passed the written component) \hfill November 2024
 - Good Clinical Practice certification. *National Institute for Health and Care Research*, London, UK \hfill Oct 2022

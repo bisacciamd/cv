@@ -23,6 +23,14 @@ csl: apa-cv.csl
 
 \newpage
 
+{{< include _prizes.qmd >}}
+
+{{< include _grants.qmd >}}
+
+{{< include _leadership.qmd >}}
+
+{{< include _affiliations.qmd >}}
+
 {{< include _teaching.qmd >}}
 
 {{< include _licenses.qmd >}}
@@ -31,10 +39,4 @@ csl: apa-cv.csl
 
 {{< include _courses.qmd >}}
 
-{{< include _peer-review.qmd >}}
-
 {{< include _publications.qmd >}}
-
-{{< include _grants.qmd >}}
-
-{{< include _prizes.qmd >}}

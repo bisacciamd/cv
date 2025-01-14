@@ -1,5 +1,5 @@
 ::: {.content-visible when-profile="english"}
-# Professional and language skills
+# Skills and languages
 
 - Clinical research
   - systematic review and meta-analysis (5 published), diagnostic studies (accuracy, clinical utility), prognostic studies (survival analysis and modeling)

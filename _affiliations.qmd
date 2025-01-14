@@ -1,6 +1,6 @@
 
 ::: {.content-visible when-profile="english"}
-# Professional affiliations
+# Affiliations
 
 - Member of the 
   - British Cardiovascular Society \hfill 2024-present

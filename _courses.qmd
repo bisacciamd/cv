@@ -1,5 +1,5 @@
 ::: {.content-visible when-profile="english"}
-# Participation in certified courses, workshops, and hackathons
+# Certified courses, workshops, and hackathons
 
 - Introduction to R for Economic Evaluation (beta-tester, online), Dark Peak Analytics \hfill November-December 2024
 - Stress CMR: A Hands-On Workshop, SCMR, ACC Heart House, Washington D.C., USA \hfill 4-5 October 2024
@@ -12,7 +12,7 @@
 :::
 
 ::: {.content-visible when-profile="italian"}
-# Partecipazione a corsi certificati, workshop e hackathon
+# Corsi certificati, workshop e hackathon
 
 - Introduction to R for Economic Evaluation (beta-tester, online), Dark Peak Analytics \hfill Novembre-Dicembre 2024
 - Corso SCMR "Stress CMR: A Hands-On Workshop", ACC Heart House, Washington D.C., Stati Uniti \hfill 4-5 Ottobre 2024
