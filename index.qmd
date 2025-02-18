@@ -21,7 +21,7 @@ csl: apa-cv.csl
 
 {{< include _education.qmd >}}
 
-\newpage
+  \newpage
 
 {{< include _prizes.qmd >}}
 
@@ -31,6 +31,8 @@ csl: apa-cv.csl
 
 {{< include _affiliations.qmd >}}
 
+  \newpage
+
 {{< include _teaching.qmd >}}
 
 {{< include _licenses.qmd >}}
@@ -38,5 +40,7 @@ csl: apa-cv.csl
 {{< include _skills.qmd >}}
 
 {{< include _courses.qmd >}}
+
+  \newpage
 
 {{< include _publications.qmd >}}

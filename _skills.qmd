@@ -6,8 +6,7 @@
   - cost-effectiveness analysis and health technology assessment
 
 - Data science and IT
-  - Strong data science skills with specific expertise in R, Quarto, Shiny, Git, creation and maintainance of REDCap projects
-  - I publish code on [Github](https://github.com/bisacciamd)
+  - Strong data science skills with specific expertise in R, Quarto, Shiny, Git and [Github](https://github.com/bisacciamd), creation and maintainance of REDCap projects
 
 - English language 
   - International English Language Testing System (IELTS) \hfill Nov 2023
@@ -25,8 +24,7 @@
   - analisi di costo-efficacia e health technology assessment
 
 - Data science e competenze informatiche
-  - Competenze avanzate di data science con R, Quarto, Shiny, Git, creazione e manutenzione di  progetti su piattaforma REDCap
-  - Pubblico il mio codice su [Github](https://github.com/bisacciamd)
+  - Competenze avanzate di data science con R, Quarto, Shiny, Git e [Github](https://github.com/bisacciamd), creazione e manutenzione di  progetti su piattaforma REDCap
 
 - Lingua inglese
   - International English Language Testing System (IELTS) \hfill Novembre 2023
