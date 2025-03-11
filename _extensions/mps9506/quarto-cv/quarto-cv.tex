@@ -191,7 +191,7 @@ $endif$
 
 $if(jobtitle)$\moveleft.5\hoffset\centerline{$jobtitle$}$endif$
 $if(address)$\moveleft.5\hoffset\centerline{$address$}$endif$
-\centerline{$if(email)$$if(fontawesome)$\faEnvelope \hspace{1 mm}$else$\emph{E-mail:}$endif$ \href{mailto:}{\tt $email$} \hspace{1 mm}$endif$ $if(phone)$$if(fontawesome)$ \faPhone \hspace{1 mm}$else$\emph{Phone:}$endif$  $phone$  \hspace{1 mm} $endif$}
+\centerline{$if(email)$$if(fontawesome)$\faEnvelope \hspace{1 mm}$else$\emph{E-mail:}$endif$ \href{mailto:$email$}{\tt $email$} \hspace{1 mm}$endif$ $if(phone)$$if(fontawesome)$ \faPhone \hspace{1 mm}$else$\emph{Phone:}$endif$  $phone$  \hspace{1 mm} $endif$}
 \centerline{$if(github)$$if(fontawesome)$\faGithub \hspace{1 mm}$else$\emph{Github:}$endif$ \href{http://github.com/$github$}{\tt $github$} \hspace{1 mm} $endif$  $if(linkedin)$$if(fontawesome)$\faLinkedin \hspace{1 mm}$else$\emph{Linkedin:}$endif$ \href{https://www.linkedin.com/in/$linkedin$}{\tt $linkedin$} \hspace{1 mm} $endif$ $if(orcid)$$if(fontawesome)$\orcidlink{$orcid$} \hspace{.5 mm}$else$\emph{ORCID:}$endif$ \href{https://orcid.org/$orcid$}{\tt $orcid$} \hspace{1 mm} $endif$ $if(web)$$if(fontawesome)$\faLink \hspace{1 mm}$else$\emph{Web:}$endif$ \href{http://$web$}{\tt $web$}  $endif$}
 
 

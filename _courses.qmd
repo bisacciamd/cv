@@ -1,7 +1,7 @@
 ::: {.content-visible when-profile="english"}
 # Certified courses, workshops, and hackathons
 
-- Introduction to R for Economic Evaluation (beta-tester, online), Dark Peak Analytics \hfill November-December 2024
+- Introduction to R for Economic Evaluation (online course), Dark Peak Analytics \hfill November-December 2024
 - Stress CMR: A Hands-On Workshop, SCMR, ACC Heart House, Washington D.C., USA \hfill 4-5 October 2024
 - HFA Clinical Trials in Heart Failure Course, Naples, Italy \hfill 20-22 September 2024
 - R in HTA Hackathon, Queen’s University Belfast, UK \hfill 5-6 August 2024
@@ -14,8 +14,8 @@
 ::: {.content-visible when-profile="italian"}
 # Corsi certificati, workshop e hackathon
 
-- Introduction to R for Economic Evaluation (beta-tester, online), Dark Peak Analytics \hfill Novembre-Dicembre 2024
-- Corso SCMR "Stress CMR: A Hands-On Workshop", ACC Heart House, Washington D.C., Stati Uniti \hfill 4-5 Ottobre 2024
+- Introduction to R for Economic Evaluation (online), Dark Peak Analytics \hfill Novembre-Dicembre 2024
+- Stress CMR: A Hands-On Workshop, ACC Heart House, Washington D.C., Stati Uniti \hfill 4-5 Ottobre 2024
 - HFA Clinical Trials in Heart Failure Course, Napoli, Italia \hfill 20-22 Settembre 2024
 - R in HTA Hackathon, Queen’s University Belfast, Regno Unito \hfill 5-6 Agosto 2024
 - R for trial and model-based cost-effectiveness analysis workshop, University of Sheffield, Regno Unito \hfill 28 Giugno 2024

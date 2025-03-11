@@ -10,11 +10,6 @@
   - European Society of Cardiology (Professional member) \hfill 2021-present
   - European Association of Cardiovascular Imaging \hfill 2021-present
   - Italian Society of Cardiology (CMR, Sex differences working groups) \hfill 2021-present
-
-- Other affiliations
-  - HTA working group, R consortium \hfill 2024-present
-  - NHS-R Community \hfill 2024-present
-  - IMSOGB - Italian Medical Society of Great Britain \hfill 2024-present
 :::
 
 ::: {.content-visible when-profile="italian"}
@@ -28,9 +23,4 @@
   - European Society of Cardiology (Professional member) \hfill2021-presente
   - European Association of Cardiovascular Imaging \hfill 2021-presente 
   - Società Italiana di Cardiologia (CMR, Sex differences WG) \hfill 2021-presente
-
-- Altre affiliazioni:
-  - HTA working group, R consortium \hfill 2024-presente
-  - NHS-R Community \hfill 2024-presente
-  - IMSOGB - Italian Medical Society of Great Britain \hfill 2024-presente
 :::

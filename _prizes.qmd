@@ -1,5 +1,6 @@
 ::: {.content-visible when-profile="english"}
 # Prizes and awards
+- Finalist, Young Investigator Award, British Society of Cardiovascular Magnetic Resonance, London, UK \hfill April 2025
 - Finalist, Early career award (clinical track), CMR 2024, London, UK \hfill January 2024
 - Winner, Early Career Investigator Travel Grant, AHA Scientific Sessions, Philadelphia, USA \hfill November 2023
 - Winner, Educational Grant, EACVI Conference, Barcelona, Spain \hfill May 2023
@@ -9,6 +10,7 @@
 
 ::: {.content-visible when-profile="italian"}
 # Premi e riconoscimenti
+- Finalista, Young Investigator Award, British Society of Cardiovascular Magnetic Resonance, Londra, Regno Unito \hfill Aprile 2025
 - Finalista, Early career award (clinical track), CMR 2024, Londra, Regno Unito \hfill Gennaio 2024
 - Vincitore, Early Career Investigator Travel Grant, AHA Scientific Sessions, Philadelphia, USA \hfill Novembre 2023
 - Vincitore, Educational Grant, EACVI Conference, Barcelona, Spain \hfill Maggio 2023

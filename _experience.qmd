@@ -4,22 +4,20 @@
 *G. d’Annunzio University of Chieti and Pescara, Chieti, Italy* \hfill May 2024-present
 
 - Resident in Cardiology \hfill November 2024-present
-  - Attending the local residency program covering all major areas of cardiology
+  - Attending the local residency program
 
 - Research Fellow in Cardiology \hfill May 2024-October 2024
-  - Supervised clinical research with focus on clinical applications of cardiovascular magnetic resonance imaging (CMR)
-  - Coordinated undergraduate and postgraduate students
+  - Supervised clinical research with focus on clinical applications of cardiovascular magnetic resonance imaging (CMR), with coordination of postgraduate and undergraduate students
 
 *Royal Brompton Hospital, London, UK* \hfill May 2023—present
 
 - Honorary Senior Research Fellow (part-time)
-   - Supervising clinical research on clinical applications of CMR, including quantitative stress perfusion CMR, ischaemic and nonischaemic cardiomyopathies, acute and chronic coronary syndromes, and guidance to myocardial revascularization
-   - Coordinating undergraduate students and clinical research fellows
+   - Coordinating a team of 6 CMR fellows at the RBH and Harefield sites on projects related to the clinical applications of CMR; areas of research include quantitative stress perfusion CMR, ischaemic and nonischaemic cardiomyopathies, acute and chronic coronary syndrome, and heart transplantation
 
 *Harefield Hospital, London, UK* \hfill Sept 2022—May 2023
 
 - Honorary Clinical Research Fellow (full time)
-  - Prepared initial reports for 300+ clinical CMR scans
+  - Prepared initial reports for 300+ clinical CMR scans (undergoing the EACVI CMR Level 3 track)
   - Conducted an audit on stress CMR after heart transplantation
   - Researched on CMR in patients with angina, cardiomyopathies, and after heart transplantation
   - Improved team productivity with data science and coding skills
@@ -39,12 +37,13 @@
 *Royal Brompton Hospital, Londra, Regno Unito* \hfill Mag 2023—presente
 
 - Honorary Senior Research Fellow (part-time)
+   - Coordinamento di un team di 6 CMR fellows su progetti di ricerca attinenti alle applicazioni cliniche della CMR, tra cui stress CMR, cardiomiopatie ischemiche e nonischemiche, sindromi coronariche acute e croniche, e trapianto cardiaco
    - Linee di ricerca: stress CMR, rivascolarizzazione miocardica percutanea, sindromi coronariche acute e croniche
 
 *Harefield Hospital, Londra, Regno Unito* \hfill Settembre 2022—Mag 2023
 
 - Honorary Clinical Research Fellow (a tempo pieno)
-  - Preparazione di 300+ report preliminari di studi clinici di CMR
+  - Preparazione di 300+ report preliminari di studi clinici di CMR (in corso di certificazione livello 3 EACVI)
   - Conduzione di un audit clinico sul profilo di *safety* e *feasibility* della stress CMR nei pazienti con pregresso trapianto cardiaco
   - Attività di ricerca: utilità clinica della CMR in pazienti con dolore toracico e cardiomiopatie
 
