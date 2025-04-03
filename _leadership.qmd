@@ -1,24 +1,34 @@
 ::: {.content-visible when-profile="english"}
 # Leadership and appointments
+
+## SCMR
 - Member, Science Committee, SCMR \hfill 2025-2026
 - Member, COI Mitigation Committee, SCMR \hfill 2025-2026
 - Member, Education Committee, SCMR \hfill 2025-2026
-- Member, Web & Communication Committee, EACVI \hfill 2024-2026
-- Editor, SCMR Journal Watch (monthly newsletter «SCMR NewsBeat») \hfill 2024-present
 - Oral Abstract Moderator, SCMR 2025, Washington, USA \hfill January 2025
+- Editor, SCMR Journal Watch (monthly newsletter «SCMR NewsBeat») \hfill 2024-present
+
+## EACVI
+- Member, Web & Communication Committee, EACVI \hfill 2024-2026
+
+## Other appointments
 - Abstract reviewer, ACC.25, Chicago, USA \hfill November 2024
 - Peer review activity for the following journals in the last 5 years: *European Heart Journal*, *The International Journal of Cardiovascular Imaging*, *Open Heart*, *Journal of Clinical Medicine*, *Frontiers in Public Health*, *Medicina*, *Children*
 :::
-
 ::: {.content-visible when-profile="italian"}
 # Leadership e incarichi
 
+## SCMR
 - Membro, Science Committee, SCMR \hfill 2025-2026
 - Membro, COI Mitigation Committee, SCMR \hfill 2025-2026
 - Membro, Education Committee, SCMR \hfill 2025-2026
-- Membro, Web & Communication Committee, EACVI \hfill 2024-2026
 - Editor, SCMR Journal Watch (newsletter «SCMR NewsBeat») \hfill 2024-presente
 - Moderatore, SCMR 2025, Washington, Stati Uniti \hfill Gennaio 2025
+
+## EACVI
+- Membro, Web & Communication Committee, EACVI \hfill 2024-2026
+
+## Altri incarichi
 - Revisore di abstract, ACC.25, Chicago, Stati Uniti \hfill Novembre 2024
 - Attività di revisione paritaria per le seguenti riviste indicizzate: *European Heart Journal*, *The International Journal of Cardiovascular Imaging*, *Open Heart*, *Journal of Clinical Medicine*, *Frontiers in Public Health*, *Medicina*, *Children*
 :::

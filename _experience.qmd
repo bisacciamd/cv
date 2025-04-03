@@ -12,12 +12,12 @@
 *Royal Brompton Hospital, London, UK* \hfill May 2023—present
 
 - Honorary Senior Research Fellow (part-time)
-   - Coordinating a team of 6 CMR fellows at the RBH and Harefield sites on projects related to the clinical applications of CMR; areas of research include quantitative stress perfusion CMR, ischaemic and nonischaemic cardiomyopathies, acute and chronic coronary syndrome, and heart transplantation
+   - Coordinating a team of 6 CMR fellows at RBH and Harefield sites; areas of research include quantitative stress perfusion CMR, ischaemic and nonischaemic cardiomyopathies, acute and chronic coronary syndromes, and heart transplantation
 
 *Harefield Hospital, London, UK* \hfill Sept 2022—May 2023
 
 - Honorary Clinical Research Fellow (full time)
-  - Prepared initial reports for 300+ clinical CMR scans (undergoing the EACVI CMR Level 3 track)
+  - Prepared initial reports for 300+ clinical CMR scans (EACVI CMR Level 3 track)
   - Conducted an audit on stress CMR after heart transplantation
   - Researched on CMR in patients with angina, cardiomyopathies, and after heart transplantation
   - Improved team productivity with data science and coding skills
@@ -31,20 +31,19 @@
 - Medico in formazione in Malattie dell'Apparato Cardiovascolare (SSD MED/11) \hfill Novembre 2024-presente
 
 - Assegnista di Ricerca in Malattie dell'Apparato Cardiovascolare (SSD MED/11) \hfill Maggio-Ottobre 2024
-  - Linee di ricerca: risonanza magnetica cardiaca (CMR) da stress, cardiomiopatie ischemiche e nonischemiche
+  - Linee di ricerca: risonanza magnetica cardiaca (cardio-RM) da stress, cardiomiopatie ischemiche e nonischemiche
   - Supervisione e coordinamento di tesisti e medici in formazione
 
 *Royal Brompton Hospital, Londra, Regno Unito* \hfill Mag 2023—presente
 
 - Honorary Senior Research Fellow (part-time)
-   - Coordinamento di un team di 6 CMR fellows su progetti di ricerca attinenti alle applicazioni cliniche della CMR, tra cui stress CMR, cardiomiopatie ischemiche e nonischemiche, sindromi coronariche acute e croniche, e trapianto cardiaco
-   - Linee di ricerca: stress CMR, rivascolarizzazione miocardica percutanea, sindromi coronariche acute e croniche
+   - Coordinamento di un team di 6 CMR fellows su progetti di ricerca attinenti alle applicazioni cliniche della cardio-RM, tra cui RM da stress farmacologico, cardiomiopatie ischemiche e nonischemiche, sindromi coronariche acute e croniche, e sorveglianza post-trapianto cardiaco
 
 *Harefield Hospital, Londra, Regno Unito* \hfill Settembre 2022—Mag 2023
 
 - Honorary Clinical Research Fellow (a tempo pieno)
-  - Preparazione di 300+ report preliminari di studi clinici di CMR (in corso di certificazione livello 3 EACVI)
-  - Conduzione di un audit clinico sul profilo di *safety* e *feasibility* della stress CMR nei pazienti con pregresso trapianto cardiaco
-  - Attività di ricerca: utilità clinica della CMR in pazienti con dolore toracico e cardiomiopatie
+  - Preparazione di 300+ report preliminari di studi clinici di CMR (preparazione per certificazione EACVI di livello 3)
+  - Conduzione di un audit clinico sul profilo di *safety* e *feasibility* della  cardio-RM da stress nei pazienti con pregresso trapianto cardiaco
+  - Attività di ricerca: utilità clinica della cardio-RM in pazienti con dolore toracico e cardiomiopatie
 
 :::

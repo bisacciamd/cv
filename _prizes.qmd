@@ -1,19 +1,19 @@
 ::: {.content-visible when-profile="english"}
 # Prizes and awards
-- Finalist, Young Investigator Award, British Society of Cardiovascular Magnetic Resonance, London, UK \hfill April 2025
-- Finalist, Early career award (clinical track), CMR 2024, London, UK \hfill January 2024
-- Winner, Early Career Investigator Travel Grant, AHA Scientific Sessions, Philadelphia, USA \hfill November 2023
-- Winner, Educational Grant, EACVI Conference, Barcelona, Spain \hfill May 2023
-- Winner, Travel Grant, SCMR Conference, San Diego, USA \hfill January 2023
-- Awardee, «Path of Excellence» in Medicine, University of Chieti and Pescara, Italy \hfill October 2019
+- Finalist, *Young Investigator Award*, British Society of Cardiovascular Magnetic Resonance, London, UK \hfill April 2025
+- Finalist, *Early Career Award* (clinical track), CMR 2024, London, UK \hfill January 2024
+- Winner, *Early Career Investigator Travel Grant*, AHA Scientific Sessions, Philadelphia, USA \hfill November 2023
+- Winner, *Educational Grant*, EACVI Conference, Barcelona, Spain \hfill May 2023
+- Winner, *Travel Grant*, SCMR Conference, San Diego, USA \hfill January 2023
+- Awardee, «*Path of Excellence*» in Medicine, University of Chieti and Pescara, Italy \hfill October 2019
 :::
 
 ::: {.content-visible when-profile="italian"}
 # Premi e riconoscimenti
-- Finalista, Young Investigator Award, British Society of Cardiovascular Magnetic Resonance, Londra, Regno Unito \hfill Aprile 2025
-- Finalista, Early career award (clinical track), CMR 2024, Londra, Regno Unito \hfill Gennaio 2024
-- Vincitore, Early Career Investigator Travel Grant, AHA Scientific Sessions, Philadelphia, USA \hfill Novembre 2023
-- Vincitore, Educational Grant, EACVI Conference, Barcelona, Spain \hfill Maggio 2023
-- Vincitore, Travel Grant, SCMR Conference, San Diego, USA \hfill Gennaio 2023
-- Riconoscimento «Percorso di Eccellenza» in Medicina e Chirurgia, Università G. d’Annunzio di Chieti e Pescara, Chieti, Italia \hfill Ottobre 2019
+- Finalista, *Young Investigator Award*, British Society of Cardiovascular Magnetic Resonance, Londra, Regno Unito \hfill Aprile 2025
+- Finalista, *Early Career Award* (clinical track), CMR 2024, Londra, Regno Unito \hfill Gennaio 2024
+- Vincitore, *Early Career Investigator Travel Grant*, AHA Scientific Sessions, Philadelphia, USA \hfill Novembre 2023
+- Vincitore, *Educational Grant*, EACVI Conference, Barcelona, Spain \hfill Maggio 2023
+- Vincitore, *Travel Grant*, SCMR Conference, San Diego, USA \hfill Gennaio 2023
+- Riconoscimento «*Percorso di Eccellenza*» in Medicina e Chirurgia, Università G. d’Annunzio, Chieti, Italia \hfill Ottobre 2019
 :::

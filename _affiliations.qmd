@@ -1,26 +1,24 @@
 
 ::: {.content-visible when-profile="english"}
 # Affiliations
-
-- Member of the 
-  - British Cardiovascular Society \hfill 2024-present
-  - American Heart Association \hfill 2023-present
-  - American College of Cardiology (Fellow in Training) \hfill 2022-present
-  - Society for Cardiovascular Magnetic Resonance (Early Career working group) \hfill 2022-present
-  - European Society of Cardiology (Professional member) \hfill 2021-present
-  - European Association of Cardiovascular Imaging \hfill 2021-present
-  - Italian Society of Cardiology (CMR, Sex differences working groups) \hfill 2021-present
+- British Cardiovascular Society \hfill 2024-present
+- British Society of Cardiovascular Magnetic Resonance \hfill 2024-present
+- American Heart Association \hfill 2023-present
+- American College of Cardiology \hfill 2022-present
+- Society for Cardiovascular Magnetic Resonance \hfill 2022-present
+- European Society of Cardiology \hfill 2021-present
+- European Association of Cardiovascular Imaging \hfill 2021-present
+- Italian Society of Cardiology \hfill 2021-present
 :::
 
 ::: {.content-visible when-profile="italian"}
 # Affiliazioni
-
-- Membro delle seguenti associazioni e società scientifiche:
-  - British Cardiovascular Society \hfill 2024-presente
-  - American Heart Association \hfill 2023-presente 
-  - American College of Cardiology (Fellow in Training) \hfill 2022-presente
-  - Society for Cardiovascular Magnetic Resonance (Early Career working group) \hfill 2022-presente
-  - European Society of Cardiology (Professional member) \hfill2021-presente
-  - European Association of Cardiovascular Imaging \hfill 2021-presente 
-  - Società Italiana di Cardiologia (CMR, Sex differences WG) \hfill 2021-presente
+- British Cardiovascular Society \hfill 2024-presente
+- British Society of Cardiovascular Magnetic Resonance \hfill 2024-presente
+- American Heart Association \hfill 2023-presente 
+- American College of Cardiology \hfill 2022-presente
+- Society for Cardiovascular Magnetic Resonance \hfill 2022-presente
+- European Society of Cardiology \hfill2021-presente
+- European Association of Cardiovascular Imaging \hfill 2021-presente 
+- Società Italiana di Cardiologia \hfill 2021-presente
 :::
