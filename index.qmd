@@ -31,8 +31,6 @@ csl: apa-cv.csl
 
 {{< include _affiliations.qmd >}}
 
-  \newpage
-
 {{< include _teaching.qmd >}}
 
 {{< include _licenses.qmd >}}

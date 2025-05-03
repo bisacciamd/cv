@@ -1,11 +1,13 @@
 ::: {.content-visible when-profile="english"}
 # Leadership and appointments
 
+## ESC
+- Alumni Task Force Member, European Heart Academy \hfill 2025-2026
+
 ## SCMR
 - Editor, Journal Watch column (monthly newsletter «SCMR NewsBeat») \hfill 2024-present
 - Member, Science Committee \hfill 2025-2026
-- Member, COI Mitigation Committee \hfill 2025-2026
-- Member, Education Committee \hfill 2025-2026
+- Member, Education & COI Mitigation Committee \hfill 2025-2026
 - Oral Abstract Moderator, SCMR 2025, Washington, USA \hfill January 2025
 
 ## EACVI
@@ -13,17 +15,20 @@
 
 ## Other appointments
 - Abstract reviewer, ACC.25, Chicago, USA \hfill November 2024
-- Peer review activity for the following journals in the last 5 years: *European Heart Journal*, *The International Journal of Cardiovascular Imaging*, *Open Heart*, *Journal of Clinical Medicine*, *Frontiers in Public Health*, *Medicina*, *Children*
+- Continued scientific peer review activity, including  for the following journals since 2020: *European Heart Journal*, *The International Journal of Cardiovascular Imaging*, *Open Heart*.
+
 :::
 ::: {.content-visible when-profile="italian"}
 # Leadership e incarichi
 
+## ESC
+- Membro della Alumni Task Force, European Heart Academy \hfill 2025-2026
+
 ## SCMR
 - Editor, rubrica *SCMR Journal Watch* (newsletter mensile SCMR NewsBeat) \hfill 2024-presente
 - Membro, Science Committee \hfill 2025-2026
-- Membro, COI Mitigation Committee \hfill 2025-2026
-- Membro, Education Committee \hfill 2025-2026
-- Moderatore per SCMR 2025, Washington, Stati Uniti \hfill Gennaio 2025
+- Membro, Education & COI Mitigation Committee \hfill 2025-2026
+- Moderatore di sessioni orali, SCMR 2025, Washington, Stati Uniti \hfill Gennaio 2025
 
 ## EACVI
 - Membro, Web & Communication Committee \hfill 2025-2026

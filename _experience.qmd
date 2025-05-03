@@ -9,18 +9,16 @@
 - Research Fellow in Cardiology \hfill May 2024-October 2024
   - Supervised clinical research with focus on clinical applications of cardiovascular magnetic resonance imaging (CMR), with coordination of postgraduate and undergraduate students
 
-*Royal Brompton Hospital, London, UK* \hfill May 2023—present
+*Royal Brompton and Harefield Hospitals, London, UK* 
 
-- Honorary Senior Research Fellow (part-time)
+- Honorary Senior Research Fellow (part-time) \hfill May 2023—present
    - Coordinating a team of 6 CMR fellows at RBH and Harefield sites; areas of research include quantitative stress perfusion CMR, ischaemic and nonischaemic cardiomyopathies, acute and chronic coronary syndromes, and heart transplantation
-
-*Harefield Hospital, London, UK* \hfill Sept 2022—May 2023
-
-- Honorary Clinical Research Fellow (full time)
+- Honorary Clinical Research Fellow (full time) \hfill Sept 2022—May 2023
   - Prepared initial reports for 300+ clinical CMR scans (EACVI CMR Level 3 track)
   - Conducted an audit on stress CMR after heart transplantation
   - Researched on CMR in patients with angina, cardiomyopathies, and after heart transplantation
   - Improved team productivity with data science and coding skills
+
 :::
 
 ::: {.content-visible when-profile="italian"}

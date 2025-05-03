@@ -1,6 +1,11 @@
 
 ::: {.content-visible when-profile="english"}
-# Teaching
+# Teaching and consultancy
+
+*London School of Economics, London, UK* 
+
+- Consultant, Economic evaluations of cardiovascular disease interventions \hfill 2025-present
+
 *University of Padua, Italy* 
 
 - Lecturer, MSc in Cardiovascular Magnetic Resonance (course convenor: Prof. M. Perazzolo Marra)
@@ -14,7 +19,11 @@
 :::
 
 ::: {.content-visible when-profile="italian"}
-# Attività di insegnamento
+# Insegnamento e consulenza
+
+*London School of Economics, London, UK* 
+
+- Consulente esterno, Valutazione economica di interventi sanitari in cardiologia \hfill 2025-present
 
 *Università di Padova, Italia* 
 

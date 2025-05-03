@@ -1,6 +1,7 @@
 
 ::: {.content-visible when-profile="english"}
 # Affiliations
+- Italian Association of Hospital Cardiologists (ANMCO) \hfill 2025-present
 - British Cardiovascular Society \hfill 2024-present
 - British Society of Cardiovascular Magnetic Resonance \hfill 2024-present
 - American Heart Association \hfill 2023-present
@@ -13,6 +14,7 @@
 
 ::: {.content-visible when-profile="italian"}
 # Affiliazioni
+- Associazione Nazionale Medici Cardiologi Ospedalieri \hfill 2025-presente
 - British Cardiovascular Society \hfill 2024-presente
 - British Society of Cardiovascular Magnetic Resonance \hfill 2024-presente
 - American Heart Association \hfill 2023-presente 
