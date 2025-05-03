@@ -1,7 +1,7 @@
 ::: {.content-visible when-profile="english"}
 # Experience
 
-*G. d’Annunzio University of Chieti and Pescara, Chieti, Italy* \hfill May 2024-present
+*G. d’Annunzio University of Chieti and Pescara, Chieti, Italy*
 
 - Resident in Cardiology \hfill November 2024-present
   - Attending the local residency program
@@ -24,7 +24,7 @@
 ::: {.content-visible when-profile="italian"}
 # Esperienza
 
-*Università G. d’Annunzio di Chieti e Pescara, Chieti, Italia* \hfill Maggio 2024-presente
+*Università G. d’Annunzio di Chieti e Pescara, Chieti, Italia* 
 
 - Medico in formazione in Malattie dell'Apparato Cardiovascolare (SSD MED/11) \hfill Novembre 2024-presente
 
@@ -32,14 +32,11 @@
   - Linee di ricerca: risonanza magnetica cardiaca (cardio-RM) da stress, cardiomiopatie ischemiche e nonischemiche
   - Supervisione e coordinamento di tesisti e medici in formazione
 
-*Royal Brompton Hospital, Londra, Regno Unito* \hfill Mag 2023—presente
+*Royal Brompton and Harefield Hospitals, Londra, Regno Unito* 
 
-- Honorary Senior Research Fellow (part-time)
+- Honorary Senior Research Fellow (part-time) \hfill Mag 2023—presente
    - Coordinamento di un team di 6 CMR fellows su progetti di ricerca attinenti alle applicazioni cliniche della cardio-RM, tra cui RM da stress farmacologico, cardiomiopatie ischemiche e nonischemiche, sindromi coronariche acute e croniche, e sorveglianza post-trapianto cardiaco
-
-*Harefield Hospital, Londra, Regno Unito* \hfill Settembre 2022—Mag 2023
-
-- Honorary Clinical Research Fellow (a tempo pieno)
+- Honorary Clinical Research Fellow (a tempo pieno) \hfill Settembre 2022—Mag 2023
   - Preparazione di 300+ report preliminari di studi clinici di CMR (preparazione per certificazione EACVI di livello 3)
   - Conduzione di un audit clinico sul profilo di *safety* e *feasibility* della  cardio-RM da stress nei pazienti con pregresso trapianto cardiaco
   - Attività di ricerca: utilità clinica della cardio-RM in pazienti con dolore toracico e cardiomiopatie

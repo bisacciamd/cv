@@ -1,5 +1,5 @@
 ::: {.content-visible when-profile="english"}
-# Skills and languages
+# Skills
 
 - Clinical research
   - systematic review and meta-analysis (5 published), diagnostic studies (accuracy, clinical utility), prognostic studies (survival analysis and modeling)
@@ -7,12 +7,6 @@
 
 - Data science and IT
   - Strong data science skills with specific expertise in R, Quarto, Shiny, Git and Github, creation and maintainance of REDCap projects
-
-- English language 
-  - International English Language Testing System (IELTS) \hfill Nov 2023
-    - Academic english. Listening 9.0; Reading 9.0; Speaking 8.5; Writing 7.5 (scored 1 to 10)
-  - Occupational English Test (OET) \hfill Feb 2023
-    - Medical english. Listening A; Reading A; Speaking B; Writing B (scored E to A) 
 
 :::
 
@@ -28,7 +22,5 @@
 
 - Lingua inglese
   - International English Language Testing System (IELTS) \hfill Novembre 2023
-    - Inglese accademico. Listening 9.0; Reading 9.0; Speaking 8.5; Writing 7.5 (scored 1 to 10)
   - Occupational English Test (OET) \hfill Febbraio 2023
-    - Inglese medico. Listening A; Reading A; Speaking B; Writing B (scored E to A) 
 :::
