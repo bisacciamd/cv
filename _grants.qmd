@@ -7,7 +7,6 @@
 - ULTRALIGHT-HCM, Italian Ministry of Public Education (co-applicant, € 299,604) \hfill July 2023
     - To perform deep cardiovascular phenotyping on athletes with left ventricular hypertrophy, using cardiac MRI and advanced genetic testing to identify features predictive of hypertrophic cardiomyopathy
 :::
-
 ::: {.content-visible when-profile="italian"}
 # Grant
 - REFINE-StressCMR (co-applicant), Royal Brompton Hospital Charity (£39,606) \hfill February 2025
