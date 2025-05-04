@@ -1,16 +1,16 @@
 ::: {.content-visible when-profile="english"}
 # Leadership and appointments
 
-## ESC
+## European Society of Cardiology (ESC)
 - Alumni Task Force Member, European Heart Academy \hfill 2025-2026
 
-## SCMR
+## Society for Cardiovascular Magnetic Resonance (SCMR)
 - Editor, Journal Watch column (monthly newsletter «SCMR NewsBeat») \hfill 2024-present
 - Member, Science Committee \hfill 2025-2026
 - Member, Education & COI Mitigation Committee \hfill 2025-2026
 - Oral Abstract Moderator, SCMR 2025, Washington, USA \hfill January 2025
 
-## EACVI
+## European Association of Cardiovascular Imaging (EACVI)
 - Member, Web & Communication Committee \hfill 2025-2026
 
 ## Other appointments
@@ -21,16 +21,16 @@
 ::: {.content-visible when-profile="italian"}
 # Leadership e incarichi
 
-## ESC
+## Società Europea di Cardiologia (ESC)
 - Membro della Alumni Task Force, European Heart Academy \hfill 2025-2026
 
-## SCMR
+## Society for Cardiovascular Magnetic Resonance (SCMR)
 - Editor, rubrica *SCMR Journal Watch* (newsletter mensile SCMR NewsBeat) \hfill 2024-presente
 - Membro, Science Committee \hfill 2025-2026
 - Membro, Education & COI Mitigation Committee \hfill 2025-2026
 - Moderatore di sessioni orali, SCMR 2025, Washington, Stati Uniti \hfill Gennaio 2025
 
-## EACVI
+## European Association of Cardiovascular Imaging (EACVI)
 - Membro, Web & Communication Committee \hfill 2025-2026
 
 ## Altri incarichi

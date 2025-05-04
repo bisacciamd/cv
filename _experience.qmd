@@ -1,19 +1,20 @@
 ::: {.content-visible when-profile="english"}
 # Experience
 
-*G. d’Annunzio University of Chieti and Pescara, Chieti, Italy*
+## *G. d’Annunzio University of Chieti and Pescara, Chieti, Italy*
 
-- Resident in Cardiology \hfill November 2024-present
-  - Attending the local residency program
+### Resident in Cardiology \hfill Nov 2024-present
+  - Attending the local 4-year Residency Program
 
-- Research Fellow in Cardiology \hfill May 2024-October 2024
+### Research Fellow in Cardiology \hfill May 2024-Oct 2024
   - Supervised clinical research with focus on clinical applications of cardiovascular magnetic resonance imaging (CMR), with coordination of postgraduate and undergraduate students
 
-*Royal Brompton and Harefield Hospitals, London, UK* 
+## *Royal Brompton and Harefield Hospitals, London, UK* 
 
-- Honorary Senior Research Fellow (part-time) \hfill May 2023—present
+### Honorary Senior Research Fellow (part-time) \hfill May 2023—present
    - Coordinating a team of 6 CMR fellows at RBH and Harefield sites; areas of research include quantitative stress perfusion CMR, ischaemic and nonischaemic cardiomyopathies, acute and chronic coronary syndromes, and heart transplantation
-- Honorary Clinical Research Fellow (full time) \hfill Sept 2022—May 2023
+
+### Honorary Clinical Research Fellow (full time) \hfill Sept 2022—May 2023
   - Prepared initial reports for 300+ clinical CMR scans (EACVI CMR Level 3 track)
   - Conducted an audit on stress CMR after heart transplantation
   - Researched on CMR in patients with angina, cardiomyopathies, and after heart transplantation
@@ -24,19 +25,20 @@
 ::: {.content-visible when-profile="italian"}
 # Esperienza
 
-*Università G. d’Annunzio di Chieti e Pescara, Chieti, Italia* 
+## *Università G. d’Annunzio di Chieti e Pescara, Chieti, Italia* 
 
-- Medico in formazione in Malattie dell'Apparato Cardiovascolare (SSD MED/11) \hfill Novembre 2024-presente
+### Medico in formazione in Malattie dell'Apparato Cardiovascolare (SSD MED/11) \hfill Nov 2024-presente
 
-- Assegnista di Ricerca in Malattie dell'Apparato Cardiovascolare (SSD MED/11) \hfill Maggio-Ottobre 2024
+### Assegnista di Ricerca in Malattie dell'Apparato Cardiovascolare (SSD MED/11) \hfill Mag-Ott 2024
   - Linee di ricerca: risonanza magnetica cardiaca (cardio-RM) da stress, cardiomiopatie ischemiche e nonischemiche
   - Supervisione e coordinamento di tesisti e medici in formazione
 
-*Royal Brompton and Harefield Hospitals, Londra, Regno Unito* 
+## *Royal Brompton and Harefield Hospitals, Londra, Regno Unito* 
 
-- Honorary Senior Research Fellow (part-time) \hfill Mag 2023—presente
+### Honorary Senior Research Fellow (part-time) \hfill Mag 2023—presente
    - Coordinamento di un team di 6 CMR fellows su progetti di ricerca attinenti alle applicazioni cliniche della cardio-RM, tra cui RM da stress farmacologico, cardiomiopatie ischemiche e nonischemiche, sindromi coronariche acute e croniche, e sorveglianza post-trapianto cardiaco
-- Honorary Clinical Research Fellow (a tempo pieno) \hfill Settembre 2022—Mag 2023
+
+### Honorary Clinical Research Fellow (a tempo pieno) \hfill Set 2022—Mag 2023
   - Preparazione di 300+ report preliminari di studi clinici di CMR (preparazione per certificazione EACVI di livello 3)
   - Conduzione di un audit clinico sul profilo di *safety* e *feasibility* della  cardio-RM da stress nei pazienti con pregresso trapianto cardiaco
   - Attività di ricerca: utilità clinica della cardio-RM in pazienti con dolore toracico e cardiomiopatie

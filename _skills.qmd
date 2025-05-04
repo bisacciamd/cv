@@ -4,9 +4,8 @@
 - Clinical research
   - systematic review and meta-analysis (5 published), diagnostic studies (accuracy, clinical utility), prognostic studies (survival analysis and modeling)
   - cost-effectiveness analysis and health technology assessment
-
 - Data science and IT
-  - Strong data science skills with specific expertise in R, Quarto, Shiny, Git and Github, creation and maintainance of REDCap projects
+  - Strong data science skills with specific expertise in R, Quarto, Shiny, Git, REDCap
 
 :::
 
@@ -14,12 +13,10 @@
 # Competenze professionali e di lingua
 
 - Ricerca clinica
-  - revisione sistematica e meta-analisi (5 pubblicate), studi diagnostici (accuratezza, utilità clinica), studi prognostici (data scraping, analisi di sopravvivenza)
-  - analisi di costo-efficacia e valutazioni economiche nell'ambito health technology
-
-- Data science e competenze informatiche
-  - Competenze avanzate di data science con R, Quarto, Shiny, Git e Github, creazione e manutenzione di  progetti su piattaforma REDCap
-
+  - revisione sistematica e meta-analisi (5 pubblicate)
+  - valutazione di test diagnostici e modellizzazione a fini prognostici 
+- *Health technology assessment*: costo-efficacia e valutazioni economiche nell'ambito delle tecnologie sanitarie
+- Competenze avanzate di data science con R, Quarto, Shiny, Git, REDCap
 - Lingua inglese
   - International English Language Testing System (IELTS) \hfill Novembre 2023
   - Occupational English Test (OET) \hfill Febbraio 2023

@@ -1,38 +1,42 @@
-
 ::: {.content-visible when-profile="english"}
 # Teaching and consultancy
 
-*London School of Economics & Political Science, London, UK* 
+## *London School of Economics & Political Science, London, UK* 
 
-- Consultant, Economic evaluations of cardiovascular disease interventions \hfill 2025-present
+### Consultant, LSE Health \hfill 2025-present
+- Economic evaluation of cardiovascular disease interventions
 
-*University of Padua, Italy* 
+## *University of Padua, Italy* 
 
-- Lecturer, MSc in Cardiovascular Magnetic Resonance (course convenor: Prof. M. Perazzolo Marra)
+### Lecturer, MSc in Cardiovascular Magnetic Resonance \hfill 2025-present
+-  Course convenor: Prof. M. Perazzolo Marra
   - "Principal investigation protocols in CMR" \hfill 2025
-  -  "CMR safety" \hfill 2024-2025
+  - "CMR safety" \hfill 2024-2025
 
-*G. d’Annunzio University of Chieti and Pescara, Chieti, Italy*
-
-- Guest lecturer on Clinical applications of CMR, Undergraduate radiographer course \hfill 2024-2025
+## *G. d’Annunzio University of Chieti and Pescara, Chieti, Italy*
+### Lecturer, MSc in Cardiovascular Magnetic Resonance \hfill 2025-present
+- Undergraduate radiographer course \hfill 2024-2025
 
 :::
 
 ::: {.content-visible when-profile="italian"}
 # Insegnamento e consulenza
 
-*London School of Economics & Political Science, London, UK* 
+## *London School of Economics & Political Science, London, UK* 
 
-- Consulente esterno, Valutazione economica di interventi sanitari in cardiologia \hfill 2025-present
+### Consulente esterno, LSE Health \hfill 2025-presente
+- Valutazione economica di interventi sanitari in cardiologia 
 
-*Università di Padova, Italia* 
+## *Università di Padova, Italia* 
 
-- Docente presso il Master "Risonanza magnetica cardiaca: dall’acquisizione delle immagini alla refertazione" (Direzione: Prof.ssa M. Perazzolo Marra) sui seguenti temi:
+### Docente, Master di II livello "Risonanza magnetica cardiaca" \hfill 2025-presente
+- Direzione: Prof.ssa M. Perazzolo Marra
   - "Principal investigation protocols in CMR" \hfill 2025
   -  "CMR safety" \hfill 2024-2025
 
-*Università G. d'Annunzio di Chieti e Pescara, Chieti, Italia* \hfill 2024-2025
+## *Università G. d'Annunzio di Chieti e Pescara, Chieti, Italia* 
 
-- Cultore della materia, Attività didattica opzionale "Applicazioni cliniche della risonanza magnetica cardiaca", Corso di Laurea in Tecniche di Radiologia Medica, per Immagini e Radioterapia
+### Cultore della materia, Corso di Laurea in Tecniche di Radiologia Medica  \hfill 2024-presente
+- Attività didattica opzionale "Applicazioni cliniche della RM cardiaca"
 
 :::
