@@ -6,7 +6,6 @@
 - UK General Medical Council, reference number 8023039 \hfill Feb 2023
 - "Ordine dei Medici-Chirurghi ed Odontoiatri", Chieti, Italy, medical license number 5690 \hfill May 2021
 :::
-
 ::: {.content-visible when-profile="italian"}
 # Licenze professionali
 

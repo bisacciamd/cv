@@ -1,17 +1,13 @@
 ::: {.content-visible when-profile="english"}
 # Skills
-
 - Clinical research
   - systematic review and meta-analysis (5 published), diagnostic studies (accuracy, clinical utility), prognostic studies (survival analysis and modeling)
   - cost-effectiveness analysis and health technology assessment
 - Data science and IT
   - Strong data science skills with specific expertise in R, Quarto, Shiny, Git, REDCap
-
 :::
-
 ::: {.content-visible when-profile="italian"}
 # Competenze professionali e di lingua
-
 - Ricerca clinica
   - revisione sistematica e meta-analisi (5 pubblicate)
   - valutazione di test diagnostici e modellizzazione a fini prognostici 

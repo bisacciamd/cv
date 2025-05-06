@@ -16,31 +16,18 @@ nocite: '@*'
 validate-yaml: false
 csl: apa-cv.csl
 ---
-
 {{< include _experience.qmd >}}
-
 {{< include _education.qmd >}}
-
   \newpage
-
 {{< include _grants.qmd >}}
-
 {{< include _prizes.qmd >}}
-
 {{< include _leadership.qmd >}}
-
 {{< include _licenses.qmd >}}
-
   \newpage
   
 {{< include _teaching.qmd >}}
-
 {{< include _skills.qmd >}}
-
 {{< include _courses.qmd >}}
-
 {{< include _affiliations.qmd >}}
-
   \newpage
-
 {{< include _publications.qmd >}}

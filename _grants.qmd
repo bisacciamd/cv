@@ -10,9 +10,9 @@
 ::: {.content-visible when-profile="italian"}
 # Grant
 - REFINE-StressCMR (co-applicant), Royal Brompton Hospital Charity (£39,606) \hfill February 2025
-    - Studio finalizzato allo sviluppo ed alla validazione di un framework per l'interpretazione e il reporting standardizzato dei reperti di cardio-RM da stress farmacologico con approccio qualitativo e quantitativo alla valutazione della perfusione miocardica
+    - Sviluppo e validazione di un framework per l'interpretazione e il reporting standardizzato dei reperti di cardio-RM da stress farmacologico con approccio qualitativo e quantitativo alla valutazione della perfusione miocardica
 - British Cardiovascular Society-Heart Research UK Clinical Fellowship Scheme (co-applicant, £16,000) \hfill December 2024
-    - Visita sul campo di una settimana di un team di cardio-RM dell'ospedale di Harefield presso il Brigham and Womens' Hospital e la Harvard Medical School, Boston, Massachussets, USA, allo scopo di familiarizzare con un sistema di acquisizione di immagini di risonanza magnetica basato su intelligenza artificiale
+    - Site visit della CMR unit dell'ospedale di Harefield presso il Brigham and Womens' Hospital (Boston, USA) e la Cleveland Clinic (Cleveland, USA), allo scopo di familiarizzare con sistemi IA per l'acquisizione di immagini di cardio-RM
 -  ULTRALIGHT-HCM (collaboratore di unità), PRIN PNRR 2022 (€299,604) \hfill Luglio 2023
-    - Studio finalizzato alla fenotipizzazione avanzata, mediante imaging con cardio-RM e test genetico, di atleti con ipertrofia ventricolare sospetta per cardiomiopatia ipertrofica  
+    - Fenotipizzazione avanzata, mediante imaging con cardio-RM e test genetico, di atleti con sospetta cardiomiopatia ipertrofica
 :::

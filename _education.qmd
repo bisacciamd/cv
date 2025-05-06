@@ -1,12 +1,10 @@
-
 ::: {.content-visible when-profile="english"}
-
 # Education
 
 ## *London School of Economics & Political Science, London, UK* 
 
 ### MSc in Health Economics, Outcomes and Management in Clinical Sciences \hfill Dec 2023—Dec 2025
-- Modules included *Economic Analysis for Health Policy*, *Quality and Outcomes in Clinical Sciences*, *Economic Evaluation in Health Care*, *Fundamentals of Management and Leadership*, *Using Health Economics to Analyse and Inform Policy and Practice*, and *Economic Analysis for Health Policy* 
+- Modules covered economic analysis for health policy, assessing quality and outcomes in clinical sciences, economic evaluations in health care, using health economics to inform policy and practice.
 - Class Clinical Student Representative for 2023/24 and 2024/25
 
 ## *G. d’Annunzio University of Chieti and Pescara, Chieti, Italy*
@@ -22,9 +20,7 @@
 - MD-PhD research track \hfill Nov 2019-Ott 2020
 - Path of Excellence research track \hfill Ott 2016—Ott 2019
 :::
-
 ::: {.content-visible when-profile="italian"}
-
 # Istruzione
 
 ## *London School of Economics & Political Science, Londra, Regno Unito* 
@@ -46,5 +42,4 @@
 - Tesi: *CMR Reference Values of Mitral and Tricuspid Annular Dimensions: the UK BioBank Cohort* (SSD MED/11)
 - Percorso MD-PhD di ricerca clinica \hfill Nov 2019-Ott 2020
 - Percorso di Eccellenza in Medicina \hfill Ott 2016—Ott 2019
-
 :::

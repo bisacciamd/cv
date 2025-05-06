@@ -8,9 +8,7 @@
 - *R for trial and model-based cost-effectiveness analysis*, Workshop, ScHARR, University of Sheffield, UK \hfill 28 June 2024
 - *Productive R Workflow*, online certification \hfill April 2024
 - *Clinical CMR* (3 month course, full-time), Royal Brompton Hospital, London, UK \hfill October-December 2022
-
 :::
-
 ::: {.content-visible when-profile="italian"}
 # Corsi certificati, workshop e hackathon
 
@@ -21,5 +19,4 @@
 - *R for trial and model-based cost-effectiveness analysis*, Workshop, Università di Sheffield (online), Regno Unito  \hfill 28 June 2024
 - *Productive R Workflow*, online certification \hfill April 2024
 - *Corso trimestrale di cardio-RM* (tempo pieno), Royal Brompton Hospital, Londra, Regno Unito \hfill Ottobre-Dicembre 2022
-
 :::

@@ -2,11 +2,9 @@
 ::: {.content-visible when-profile="english"}
 # Scientific publications
 :::
-
 ::: {.content-visible when-profile="italian"}
 # Pubblicazioni scientifiche
 :::
-
 ```{r}
 #| echo: false
 #| error: false
@@ -23,13 +21,11 @@ pubs <- tryCatch({
   })[[1]]$`document-count`
 
 ```
-
 ::: {.content-visible when-profile="english"}
 I have authored `r pubs` Scopus-indexed scientific publications, where I contributed to literature review, statistical analyses, manuscript drafting, and/or preparation of tables, visual illustrations, and figures. My publications may also be accessed on [NCBI](https://www.ncbi.nlm.nih.gov/myncbi/giandomenico.bisaccia.1/bibliography/public/).
 
 ## Original research
 :::
-
 ::: {.content-visible when-profile="italian"}
 Ho contribuito a `r pubs` pubblicazioni scientifiche (Scopus). In questi lavori, ho effettuato revisioni della letteratura, la prima stesura del testo, analisi statistiche, e la preparazione di tabelle, illustrazioni e figure. La lista delle mie pubblicazioni è disponibile online su [NCBI](https://www.ncbi.nlm.nih.gov/myncbi/giandomenico.bisaccia.1/bibliography/public/).
 

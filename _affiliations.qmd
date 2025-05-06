@@ -11,7 +11,6 @@
 - European Association of Cardiovascular Imaging \hfill 2021-present
 - Italian Society of Cardiology \hfill 2021-present
 :::
-
 ::: {.content-visible when-profile="italian"}
 # Affiliazioni
 - Associazione Nazionale Medici Cardiologi Ospedalieri \hfill 2025-presente

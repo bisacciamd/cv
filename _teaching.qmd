@@ -9,16 +9,14 @@
 ## *University of Padua, Italy* 
 
 ### Lecturer, MSc in Cardiovascular Magnetic Resonance \hfill 2025-present
--  Course convenor: Prof. M. Perazzolo Marra
-  - "Principal investigation protocols in CMR" \hfill 2025
-  - "CMR safety" \hfill 2024-2025
+- "Principal investigation protocols in CMR" \hfill 2025
+- "CMR safety" \hfill 2024-2025
 
 ## *G. d’Annunzio University of Chieti and Pescara, Chieti, Italy*
 ### Lecturer, MSc in Cardiovascular Magnetic Resonance \hfill 2025-present
 - Undergraduate radiographer course \hfill 2024-2025
 
 :::
-
 ::: {.content-visible when-profile="italian"}
 # Insegnamento e consulenza
 
@@ -30,9 +28,8 @@
 ## *Università di Padova, Italia* 
 
 ### Docente, Master di II livello "Risonanza magnetica cardiaca" \hfill 2025-presente
-- Direzione: Prof.ssa M. Perazzolo Marra
-  - "Principal investigation protocols in CMR" \hfill 2025
-  -  "CMR safety" \hfill 2024-2025
+- "Principal investigation protocols in CMR" \hfill 2025
+-  "CMR safety" \hfill 2024-2025
 
 ## *Università G. d'Annunzio di Chieti e Pescara, Chieti, Italia* 
 
