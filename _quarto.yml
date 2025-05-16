@@ -16,8 +16,7 @@ website:
       - icon: file-earmark-text
         text: CV
         href: index.qmd
-    right:
-      - text: Portfolio website
+      - text: Portfolio
         href: https://bisacciamd.com
   page-footer: "Developed with Quarto by Giandomenico Bisaccia — 2024" 
   reader-mode: false
