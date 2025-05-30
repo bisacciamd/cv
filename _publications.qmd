@@ -148,11 +148,16 @@ I. Leo, **G. Bisaccia**, N. Miaris, M. C. Procopio, R. Licordari and C. Bucciare
 
 
 ::: {.content-visible when-profile="english"}
-## Case reports
+## Case reports and letters to the editor
 :::
 ::: {.content-visible when-profile="italian"}
-## Case report
+## Case report e lettere agli editori
 :::
+**Cardiac allograft vasculopathy and splenic switch-off: «off we go»?** (2025).
+**G. Bisaccia**, J. Wong and C. Bucciarelli-Ducci.
+*Journal of Cardiology*.
+[{{< bi box-arrow-up-right >}}](https://doi.org/https://doi.org/10.1016/j.jjcc.2025.05.009)
+
 
 **Two Hearts Beating in One Chest** I. Leo, **G. Bisaccia**, J. Wong, F. Riesgo-Gil, P. Kellman and C. Bucciarelli-Ducci.
 *Circulation: Cardiovascular Imaging*.
