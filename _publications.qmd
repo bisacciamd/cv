@@ -1,10 +1,10 @@
-
 ::: {.content-visible when-profile="english"}
 # Scientific publications
 :::
 ::: {.content-visible when-profile="italian"}
 # Pubblicazioni scientifiche
 :::
+
 ```{r}
 #| echo: false
 #| error: false
@@ -21,8 +21,9 @@ pubs <- tryCatch({
   })[[1]]$`document-count`
 
 ```
+
 ::: {.content-visible when-profile="english"}
-I have authored `r pubs` Scopus-indexed scientific publications, where I contributed to literature review, statistical analyses, manuscript drafting, and/or preparation of tables, visual illustrations, and figures. My publications may also be accessed on [NCBI](https://www.ncbi.nlm.nih.gov/myncbi/giandomenico.bisaccia.1/bibliography/public/).
+I have authored `r pubs` Scopus-indexed scientific publications, where I contributed to literature review, statistical analyses, manuscript drafting, and/or preparation of tables, visual illustrations, and figures. My publications may also be accessed on [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Bisaccia%20Giandomenico%22%5BAuthor%5D).
 
 ## Original research
 :::
@@ -93,18 +94,15 @@ F. Ricci, N. Aung, S. Gallina, F. Zemrak, K. Fung, **G. Bisaccia**, J. M. Paiva,
 *Heart Failure Journal of India*.
 [{{< bi box-arrow-up-right >}}](https://journals.lww.com/hfji/fulltext/2024/05000/cardiac_magnetic_resonance_imaging__a_utility_in.8.aspx)
 
-
 **Prevention of cardiotoxicity in childhood cancer survivors: in physical exercise, we trust** (2024).
 V. Bucciarelli, F. Bianco, **G. Bisaccia**, K. Galanti, A. Arata, M. Ricci, B. Bucciarelli, M. Marinelli, G. Renda, A. Farinetti, A. V. Mattioli and S. Gallina.
 *Current Problems in Cardiology*.
 [{{< bi box-arrow-up-right >}}](https://doi.org/10.1016/j.cpcardiol.2024.102722)
 
-
 **Moderate aortic stenosis: Navigating the uncharted** (2024).
 M. V. Caprio, F. De Donno, **G. Bisaccia**, C. Mantini, A. Di Baldassarre, S. Gallina, M. Y. Khanji and F. Ricci.
 *Echocardiography*.
 [{{< bi box-arrow-up-right >}}](https://doi.org/https://doi.org/10.1111/echo.15859)
-
 
 **Underlying mechanisms and cardioprotective effects of SGLT2i and GLP-1Ra: insights from cardiovascular magnetic resonance** (2024).
 A. Cersosimo, N. Salerno, J. Sabatino, A. Scatteia, **G. Bisaccia**, S. De Rosa, S. Dellegrottaglie, C. Bucciarelli-Ducci, D. Torella and I. Leo.
@@ -146,7 +144,6 @@ I. Leo, **G. Bisaccia**, N. Miaris, M. C. Procopio, R. Licordari and C. Bucciare
 *SAGE Open Medicine*.
 [{{< bi box-arrow-up-right >}}](https://doi.org/10.1177/2050312120933804)
 
-
 ::: {.content-visible when-profile="english"}
 ## Case reports and letters to the editor
 :::
@@ -158,57 +155,19 @@ I. Leo, **G. Bisaccia**, N. Miaris, M. C. Procopio, R. Licordari and C. Bucciare
 *Journal of Cardiology*.
 [{{< bi box-arrow-up-right >}}](https://doi.org/https://doi.org/10.1016/j.jjcc.2025.05.009)
 
-
-**Two Hearts Beating in One Chest** I. Leo, **G. Bisaccia**, J. Wong, F. Riesgo-Gil, P. Kellman and C. Bucciarelli-Ducci.
+**Two Hearts Beating in One Chest** (2025).
+I. Leo, **G. Bisaccia**, J. Wong, F. Riesgo-Gil, P. Kellman and C. Bucciarelli-Ducci.
 *Circulation: Cardiovascular Imaging*.
 [{{< bi box-arrow-up-right >}}](https://doi.org/10.1161/CIRCIMAGING.124.017666)
 
-  \newpage
+::: {.content-visible when-profile="italian"}
+## Capitoli di libri
+
+**"Sindromi coronariche acute".** RISONANZA MAGNETICA - TESTO ATLANTE (collana diretta da Angelo Vanzulli) Cardiologia (a cura di Patrizia Pedrotti, Francesco Secchi), Poletto Editore, 2025.
+:::
 
 ::: {.content-visible when-profile="english"}
-# Conference presentations
+## Chapters in books
+
+**"Acute Coronary Syndromes".** Magnetic Resonance Imaging Atlas, Cardiology («RISONANZA MAGNETICA - TESTO ATLANTE»), edited by Patrizia Pedrotti and Francesco Secchi, Poletto, 2025.
 :::
-
-::: {.content-visible when-profile="italian"}
-# Presentazioni a congressi internazionali
-:::
-
-## European Society of Cardiology
-
-*Non-invasive imaging to guide percutaneous coronary revascularization in chronic total occlusion: a systematic review and meta-analysis*.
-Presenting author: **G. Bisaccia**. [ESC Congress, London, UK (August 2024)]{.content-visible when-profile="english"} [ESC Congress, Londra, Regno Unito (Agosto 2024)]{.content-visible when-profile="italian"}
-
-*Prognostic yield of stress CMR to evaluate chronic coronary syndromes: a systematic review and meta-analysis*.
-Presenting author: **G. Bisaccia**. [ESC Congress, Barcelona, Spain (August 2022)]{.content-visible when-profile="english"} [ESC Congress, Barcellona, Spagna (Agosto 2022)]{.content-visible when-profile="italian"}
-
-*Diagnostic accuracy of stress CMR to evaluate chronic coronary syndromes: an updated meta-analysis*.
-Presenting author: **G. Bisaccia**. [ESC Congress, Barcelona, Spain (August 2022)]{.content-visible when-profile="english"} [ESC Congress, Barcellona, Spagna (Agosto 2022)]{.content-visible when-profile="italian"}
-
-*Cardiovascular morbidity and mortality related to non-alcoholic fatty liver disease: a systematic review and meta-analysis of prospective studies*.
-Presenting author: **G. Bisaccia**. [ESC Congress (The Digital Experience) (August 2021)]{.content-visible when-profile="english"} [ESC Congress (The Digital Experience) (Agosto 2021)]{.content-visible when-profile="italian"}
-
-## American Heart Association
-
-*Comparative and Incremental Diagnostic and Prognostic Yield of Exercise ECG, CMR and SPECT in Patients With Suspected Ischaemic Heart Disease: A CE-MARC Sub-Study*.
-Presenting author: **G. Bisaccia**. [AHA Scientific Sessions, Philadelphia, USA (Nov 2023)]{.content-visible when-profile="english"} [AHA Scientific Sessions, Philadelphia, USA (Novembre 2023)]{.content-visible when-profile="italian"}
-
-## European Association of Cardiovascular Imaging
-
-*CMR reclassifies patients with suspected myocardial infarction with non-obstructive coronary arteries (MINOCA)*.
-Presenting author: **G. Bisaccia**. [EACVI, Barcelona, Spain (May 2023)]{.content-visible when-profile="english"} [EACVI, Barcellona, Spagna (Maggio 2023)]{.content-visible when-profile="italian"}
-
-## Society for Cardiovascular Magnetic Resonance 
-*Impact of Age and Sex on Myocardial Involvement in hospitalized COVID-19 patients: A Pre-specified Subanalysis of COVID-HEART*. Presenting author: **G. Bisaccia**. [SCMR Scientific Sessions 2025 in Washington, US (Jan 2025).]{.content-visible when-profile="english"} [SCMR Scientific Sessions 2025 a Washington, Stati Uniti (Gennaio 2025).]{.content-visible when-profile="italian"}
-
-[*Early Career Award* finalist]{.content-visible when-profile="english"} [Finalista *Early Career Award*]{.content-visible when-profile="italian"} - *CMR as the First Line Test Compared to Exercise ECG and SPECT in Patients with Stable Chest Pain: Insights from CE-MARC*. Presenting author: **G. Bisaccia**. [CMR 2024, London, UK (Jan 2024)]{.content-visible when-profile="english"}[CMR 2024 (Gennaio 2024)]{.content-visible when-profile="italian"}.
-
-*Prognostic Value of Myocardial Blood Flow Index Among Heart Transplant Recipients*.
-Presenting author: **G. Bisaccia**. [CMR 2024, London, UK (Jan 2024).]{.content-visible when-profile="english"} [CMR 2024 (Gennaio 2024).]{.content-visible when-profile="italian"}
-
-*Safety and Feasibility of Adenosine Stress CMR for CAV Detection in Orthotopic Heart Transplant Recipients*.
-Presenting author: **G. Bisaccia**. [CMR 2024 London, UK (Jan 2024).]{.content-visible when-profile="english"} [CMR 2024 (Gennaio 2024).]{.content-visible when-profile="italian"}
-
-*Diagnostic and Prognostic Value of Stress CMR Imaging to Evaluate Stable Chest Pain: A Twenty-Year Meta-Analysis*. Presenting author: **G. Bisaccia**. [SCMR 2023 San Diego, US (Jan 2023).]{.content-visible when-profile="english"} [SCMR 2023 San Diego, Stati Uniti (Gennaio 2023).]{.content-visible when-profile="italian"}
-
-## British Society of Cardiovascular Magnetic Resonance 
-[*Young Investigator Award* finalist]{.content-visible when-profile="english"} [Finalista *Young Investigator Award*]{.content-visible when-profile="italian"} - *How late is too late? Influence of scan timing on CMR’s diagnostic yield in suspected MINOCA*. Presenting author: **G. Bisaccia**. [BSCMR Annual Conference 2025, London, UK (Mar 2025)]{.content-visible when-profile="english"} [BSCMR 2025 (Marzo 2025)]{.content-visible when-profile="italian"}.

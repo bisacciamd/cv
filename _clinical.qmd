@@ -1,0 +1,21 @@
+::: {.content-visible when-profile="english"}
+# Clinical appointments
+## *Villa Serena Del Dr. Leonardo Petruzzi, Città Sant'Angelo, Italy*
+### Cardiology Rehabilitation Ward \hfill Jun 2021-Oct 2024
+  - Night shift interdivisional medical coverage with on-call cardiologist
+
+## *Casa di Cura Villa Pini D'Abruzzo, Chieti, Italy*
+### Intensive Residential Rehabilitation \hfill Jun 2021-Oct 2024
+  - Night shift interdivisional medical coverage with on-call anesthesiologist
+:::
+
+::: {.content-visible when-profile="italian"}
+# Esperienza clinica
+## *Villa Serena Del Dr. Leonardo Petruzzi, Città Sant'Angelo, Italia*
+### Reparto di Riabilitazione Cardiologica \hfill Giu 2021-Ott 2024
+  - Turni di guardia medica notturna interdivisionale con cardiologo reperibile
+
+## *Casa di Cura Villa Pini D'Abruzzo, Chieti, Italia*
+### Riabilitazione Residenziale Intensiva ex art. 26 \hfill Giu 2021-Ott 2024
+  - Turni di guardia medica notturna interdivisionale con anestesista reperibile
+:::

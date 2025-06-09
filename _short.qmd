@@ -1,7 +1,6 @@
 ---
 #title: 
 format:
-  html: default
   quarto-cv-pdf: 
     hyperrefoptions: draft
 author: Giandomenico Bisaccia, MD, PhD
@@ -19,17 +18,7 @@ csl: apa-cv.csl
 {{< include _experience.qmd >}}
 {{< include _education.qmd >}}
   \newpage
-{{< include _grants.qmd >}}
-{{< include _prizes.qmd >}}
-{{< include _leadership.qmd >}}
-{{< include _licenses.qmd >}}
-  \newpage
-  
+{{< include _clinical.qmd >}}  
 {{< include _teaching.qmd >}}
-{{< include _skills.qmd >}}
-{{< include _courses.qmd >}}
+{{< include _licenses.qmd >}}
 {{< include _affiliations.qmd >}}
-  \newpage
-{{< include _publications.qmd >}}
-\newpage
-{{< include _presentations.qmd >}}
