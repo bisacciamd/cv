@@ -26,3 +26,6 @@ cp docs/it/index.pdf "$output_dir/Bisaccia_CV_it_${current_date}.pdf"
 
 # Copy the CV (EN)
 cp docs/index.pdf "$output_dir/Bisaccia_CV_en_${current_date}.pdf"
+
+# Copies the CV to download directly from the website
+cp docs/index.pdf "Bisaccia_CV_en.pdf"
