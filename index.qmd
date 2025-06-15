@@ -4,8 +4,15 @@ format:
   html: default
   quarto-cv-pdf: 
     hyperrefoptions: draft
-author: Giandomenico Bisaccia, MD, PhD
+author: Giandomenico Bisaccia, MD-PhD
 date: last-modified
+address: |
+  ::: {.content-visible when-profile="english"}
+  Corso Giacomo Matteotti 53, 75022 Irsina (Matera), Italy
+  :::
+  ::: {.content-visible when-profile="italian"}
+  Corso Giacomo Matteotti 53, 75022 Irsina (Matera), Italia
+  :::
 email: bisacciagiandomenico@gmail.com
 fontsize: 11pt
 orcid: 0000-0003-4606-3093 # orcid identifier
