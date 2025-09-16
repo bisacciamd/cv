@@ -20,6 +20,7 @@ pubs <- tryCatch({
     NULL  # In case of an error, return NULL
   })[[1]]$`document-count`
 
+pubs <- ifelse(is.null(pubs), 24, pubs)
 ```
 
 ::: {.content-visible when-profile="english"}
@@ -32,6 +33,11 @@ Ho contribuito a `r pubs` pubblicazioni scientifiche (Scopus). In questi lavori,
 
 ## Studi originali
 :::
+
+**Diagnostic and prognostic comparison of stress ECG, CMR and SPECT, alone and sequentially, in stable chest pain** (2025). **G. Bisaccia**, P. P. Swoboda, J. F. Younger, N. Maredia, C. J. Dickinson, J. M. Brown, C. Bucciarelli-Ducci, S. Plein and J. P. Greenwood.
+*Journal of Cardiovascular Magnetic Resonance*.
+[{{< bi box-arrow-up-right >}}](https://doi.org/10.1016/j.jocmr.2025.101960)
+
 **Safety and feasibility of adenosine stress cardiac MRI in heart transplant recipients** (2024).
 **G. Bisaccia**, R. Licordari, I. Leo, G. La Vecchia, M. Perotto, M. C. Procopio, N. Miaris, F. Ricci, S. Gallina, J. Wong, P. Kellman and C. Bucciarelli-Ducci.
 *European Heart Journal - Cardiovascular Imaging*.
@@ -88,6 +94,11 @@ F. Ricci, N. Aung, S. Gallina, F. Zemrak, K. Fung, **G. Bisaccia**, J. M. Paiva,
 ::: {.content-visible when-profile="italian"}
 ## Revisioni della letteratura
 :::
+
+**[Artificial intelligence-enhanced ECG interpretation: a new era for electrocardiography?]** (2025).
+F. Ricci, M. L. Rizzuto, G. Bisaccia, D. Mansour, S. Gallina, L. Sciarra, G. Bagliani, A. Dello Russo, A. Mortara and G. Ciliberti.
+*G Ital Cardiol (Rome)*.
+[{{< bi box-arrow-up-right >}}](https://doi.org/10.1714/4542.45427)
 
 **Cardiac Magnetic Resonance Imaging: A Utility in Heart Failure** (2024).
 **G. Bisaccia** and C. Bucciarelli-Ducci.
