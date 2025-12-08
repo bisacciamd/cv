@@ -3,17 +3,17 @@
 
 ## *G. d’Annunzio University of Chieti and Pescara, Chieti, Italy*
 
-### Resident in Cardiology \hfill Nov 2024-present
+### Resident in Cardiovascular Medicine \hfill Nov 2024-present
   - Attending the local 4-year Residency Program
 
-### Research Fellow in Cardiology \hfill May 2024-Oct 2024
+### Research Fellow in Cardiovascular Medicine \hfill May 2024-Oct 2024
   - Supervised clinical research with focus on clinical applications of cardiovascular magnetic resonance imaging (CMR), with coordination of postgraduate and undergraduate students
 
 ## *Royal Brompton and Harefield Hospitals, London, UK* 
 
 ### Honorary Senior Research Fellow (part-time) \hfill May 2023—present
    - Coordinating CMR fellows across hospital sites
-   - Areas of research include quantitative stress perfusion CMR, ischaemic and nonischaemic cardiomyopathies, acute and chronic coronary syndromes, and heart transplantation
+   - Areas of research (clinical effectiveness, safety and feasibility, quality and outcomes) include quantitative stress perfusion CMR, ischaemic and nonischaemic cardiomyopathies, acute and chronic coronary syndromes, and heart transplantation
 
 ### Honorary Clinical Research Fellow (full time) \hfill Sept 2022—May 2023
   - Prepared initial reports for 300+ clinical CMR scans (EACVI CMR Level 3 track)
@@ -28,7 +28,7 @@
 
 ## *Università G. d’Annunzio di Chieti e Pescara, Chieti, Italia* 
 
-### Medico in formazione in Malattie dell'Apparato Cardiovascolare (SSD MED/11) \hfill Nov 2024-presente
+### Corso di Specializzazione in Malattie dell'Apparato Cardiovascolare (SSD MED/11) \hfill Nov 2024-presente
 
 ### Assegnista di Ricerca in Malattie dell'Apparato Cardiovascolare (SSD MED/11) \hfill Mag-Ott 2024
   - Linee di ricerca: risonanza magnetica cardiaca (cardio-RM) da stress, cardiomiopatie ischemiche e nonischemiche
@@ -41,7 +41,7 @@
 
 ### Honorary Clinical Research Fellow (a tempo pieno) \hfill Set 2022—Mag 2023
   - Preparazione di 300+ report preliminari di studi clinici di CMR (preparazione per certificazione EACVI di livello 3)
-  - Conduzione di un audit clinico sul profilo di *safety* e *feasibility* della  cardio-RM da stress nei pazienti con pregresso trapianto cardiaco
+  - Conduzione di un audit clinico sul profilo di *safety* e *feasibility* della cardio-RM da stress nei pazienti con pregresso trapianto cardiaco
   - Attività di ricerca: utilità clinica della cardio-RM in pazienti con dolore toracico e cardiomiopatie
 
 :::

@@ -96,7 +96,7 @@ F. Ricci, N. Aung, S. Gallina, F. Zemrak, K. Fung, **G. Bisaccia**, J. M. Paiva,
 :::
 
 **[Artificial intelligence-enhanced ECG interpretation: a new era for electrocardiography?]** (2025).
-F. Ricci, M. L. Rizzuto, G. Bisaccia, D. Mansour, S. Gallina, L. Sciarra, G. Bagliani, A. Dello Russo, A. Mortara and G. Ciliberti.
+F. Ricci, M. L. Rizzuto, **G. Bisaccia**, D. Mansour, S. Gallina, L. Sciarra, G. Bagliani, A. Dello Russo, A. Mortara and G. Ciliberti.
 *G Ital Cardiol (Rome)*.
 [{{< bi box-arrow-up-right >}}](https://doi.org/10.1714/4542.45427)
 
@@ -156,11 +156,16 @@ I. Leo, **G. Bisaccia**, N. Miaris, M. C. Procopio, R. Licordari and C. Bucciare
 [{{< bi box-arrow-up-right >}}](https://doi.org/10.1177/2050312120933804)
 
 ::: {.content-visible when-profile="english"}
-## Case reports and letters to the editor
+## Editorials, Case reports, and Letters to the editor
 :::
 ::: {.content-visible when-profile="italian"}
-## Case report e lettere agli editori
+## Editoriali, Case report e Lettere agli editori
 :::
+**Stress CMR and Chronic Total Occlusions: Will the Fermi Function Solve the Fermi Paradox?** (2025).
+**G. Bisaccia** and F. Ricci.
+*European Heart Journal - Cardiovascular Imaging*.
+[{{< bi box-arrow-up-right >}}](https://doi.org/10.1093/ehjci/jeaf286)
+
 **Cardiac allograft vasculopathy and splenic switch-off: «off we go»?** (2025).
 **G. Bisaccia**, J. Wong and C. Bucciarelli-Ducci.
 *Journal of Cardiology*.

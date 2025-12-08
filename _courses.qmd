@@ -1,6 +1,7 @@
 ::: {.content-visible when-profile="english"}
 # Certified courses, workshops, and hackathons
 
+- *Stress MR III In DC: A Hands-On Workshop*, SCMR, ACC Heart House, Washington D.C., USA \hfill 10-11 October 2025
 - *Introduction to R for Economic Evaluation*, Dark Peak Analytics, online \hfill November-December 2024
 - *Stress CMR: A Hands-On Workshop*, SCMR, ACC Heart House, Washington D.C., USA \hfill 4-5 October 2024
 - *HFA Clinical Trials in Heart Failure*, Naples, Italy \hfill 20-22 September 2024
@@ -12,6 +13,7 @@
 ::: {.content-visible when-profile="italian"}
 # Corsi certificati, workshop e hackathon
 
+- *Stress MR III In DC: A Hands-On Workshop*, SCMR, ACC Heart House, Washington D.C., USA \hfill 10-11 Ottobre 2025
 - *Introduction to R for Economic Evaluation*, Dark Peak Analytics, online \hfill Novembre-Dicembre  2024
 - *Stress CMR: A Hands-On Workshop*, SCMR, ACC Heart House, Washington D.C., USA \hfill 4-5 Ottobre 2024
 - *HFA Clinical Trials in Heart Failure*, Napoli, Italia \hfill 20-22 Settembre 2024
