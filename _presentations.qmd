@@ -55,6 +55,8 @@ Presenting author: **G. Bisaccia**. [CMR 2024 London, UK (Jan 2024).]{.content-v
 # Altre presentazioni su invito
 :::
 
+*Diagnostic and prognostic comparison of stress electrocardiogram, cardiovascular magnetic resonance, and single photon emission computed tomography, alone and sequentially, in stable chest pain*. [Italian Society of Cardiology CMR Journal Club, online (February 2026)]{.content-visible when-profile="english"}[Journal Club online organizzato dal Gruppo di Studio Risonanza Magnetica Cardiaca della Società Italiana di Cardiologia (Aprile 2025).]{.content-visible when-profile="italian"}. 
+
 *Cardiac MRI in suspected myocardial infarction with nonobstructive coronary artery disease*. Curso Imágenes Cardíacas, Universidad San Sebastián and Clinica Sanatorio Alemán, Concepción, [Chile (May 2025)]{.content-visible when-profile="english"}[Cile (Maggio 2025)]{.content-visible when-profile="italian"}.
 
-*Safety and feasibility of adenosine stress cardiac MRI in heart transplant recipients*. [Italian Society of Cardiology CMR Journal Club, online (April 2025)]{.content-visible when-profile="english"} [Journal Club online organizzato dal Gruppo di Studio Risonanza Magnetica Cardiaca della Società Italiana di Cardiologia (Aprile 2025).]{.content-visible when-profile="italian"}. 
+*Safety and feasibility of adenosine stress cardiac MRI in heart transplant recipients*. [Italian Society of Cardiology CMR Journal Club, online (April 2025)]{.content-visible when-profile="english"}[Journal Club online organizzato dal Gruppo di Studio Risonanza Magnetica Cardiaca della Società Italiana di Cardiologia (Aprile 2025).]{.content-visible when-profile="italian"}. 

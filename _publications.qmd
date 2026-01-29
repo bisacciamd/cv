@@ -5,6 +5,7 @@
 # Pubblicazioni scientifiche
 :::
 
+
 ```{r}
 #| echo: false
 #| error: false
@@ -24,7 +25,23 @@ pubs <- ifelse(is.null(pubs), 24, pubs)
 ```
 
 ::: {.content-visible when-profile="english"}
-I have authored `r pubs` Scopus-indexed scientific publications, where I contributed to literature review, statistical analyses, manuscript drafting, and/or preparation of tables, visual illustrations, and figures. My publications may also be accessed on [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Bisaccia%20Giandomenico%22%5BAuthor%5D).
+I have contributed to various scientific books, notably including Braunwald's Heart Disease, the ESC Textbook of Cardiovascular Medicine, and the EACVI Textbook of Cardiovascular Magnetic Resonance. I have also authored `r pubs` Scopus-indexed  publications, where I contributed to literature review, statistical analyses, manuscript drafting, and/or preparation of tables, visual illustrations, and figures. My publications may also be accessed on [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Bisaccia%20Giandomenico%22%5BAuthor%5D).
+
+::: {.content-visible when-profile="english"}
+## Chapters in books
+**"Myocardial Infarction with Nonobstructed Coronary Arteries"** (chapter author). *EACVI Textbook of Cardiovascular Magnetic Resonance*. Edited by Sven Plein, Chiara Bucciarelli-Ducci and Steffen Petersen, OUP, 2026.
+
+**"Cardiovascular Magnetic Resonance"** book chapter (listed contributor).*Braunwald’s Heart Disease*, edited by Robert O. Bonow, Douglas L. Mann, Gordon F. Tomaselli, Deepak L. Bhatt, Scott D. Solomon, Peter Libby, Eugene Braunwald, Elsevier, 2026.
+
+**"Acute Coronary Syndromes".** *Magnetic Resonance Imaging Atlas* (chapter author), Cardiology *(«RISONANZA MAGNETICA - TESTO ATLANTE»*), edited by Patrizia Pedrotti and Francesco Secchi, Poletto, 2025.
+:::
+
+::: {.content-visible when-profile="italian"}
+## Capitoli di libri
+"Cardiovascular Magnetic Resonance" book chapter (contributor), Braunwald’s Heart Disease, edito da Robert O. Bonow, Douglas L. Mann, Gordon F. Tomaselli, Deepak L. Bhatt, Scott D. Solomon, Peter Libby, Eugene Braunwald, Elsevier, 2026.
+
+**"Sindromi coronariche acute".** RISONANZA MAGNETICA - TESTO ATLANTE (collana diretta da Angelo Vanzulli) Cardiologia (a cura di Patrizia Pedrotti, Francesco Secchi), Poletto Editore, 2025.
+:::
 
 ## Original research
 :::
@@ -175,15 +192,3 @@ I. Leo, **G. Bisaccia**, N. Miaris, M. C. Procopio, R. Licordari and C. Bucciare
 I. Leo, **G. Bisaccia**, J. Wong, F. Riesgo-Gil, P. Kellman and C. Bucciarelli-Ducci.
 *Circulation: Cardiovascular Imaging*.
 [{{< bi box-arrow-up-right >}}](https://doi.org/10.1161/CIRCIMAGING.124.017666)
-
-::: {.content-visible when-profile="italian"}
-## Capitoli di libri
-
-**"Sindromi coronariche acute".** RISONANZA MAGNETICA - TESTO ATLANTE (collana diretta da Angelo Vanzulli) Cardiologia (a cura di Patrizia Pedrotti, Francesco Secchi), Poletto Editore, 2025.
-:::
-
-::: {.content-visible when-profile="english"}
-## Chapters in books
-
-**"Acute Coronary Syndromes".** Magnetic Resonance Imaging Atlas, Cardiology («RISONANZA MAGNETICA - TESTO ATLANTE»), edited by Patrizia Pedrotti and Francesco Secchi, Poletto, 2025.
-:::
