@@ -1,0 +1,20 @@
+::: {.content-visible when-profile="english"}
+# Prizes and awards
+- Finalist, *JCMR Gerald M Pohost Award*, SCMR 2026, Rio de Janeiro, Brazil \hfill January 2026
+- Finalist, *Young Investigator Award*, BSCMR 20th Annual Meeting, London, UK \hfill April 2025
+- Finalist, *Early Career Award* (clinical track), CMR 2024, London, UK \hfill January 2024
+- Winner, *Early Career Investigator Travel Grant*, AHA Scientific Sessions, Philadelphia, USA \hfill November 2023
+- Winner, *Educational Grant*, EACVI Congress, Barcelona, Spain \hfill May 2023
+- Winner, *Travel Grant*, SCMR Scientific Sessions, San Diego, USA \hfill January 2023
+- Awardee, «*Path of Excellence*» in Medicine, University of Chieti and Pescara, Italy \hfill October 2019
+:::
+::: {.content-visible when-profile="italian"}
+# Premi e riconoscimenti
+- Finalista, *JCMR Gerald M Pohost Award*, SCMR 2026, Rio de Janeiro, Brazil \hfill January 2026
+- Finalista, *Young Investigator Award*, BSCMR 20th Annual Meeting, Londra, Regno Unito \hfill Aprile 2025
+- Finalista, *Early Career Award* (clinical track), CMR 2024, Londra, Regno Unito \hfill Gennaio 2024
+- Vincitore, *Early Career Investigator Travel Grant*, AHA Scientific Sessions, Philadelphia, USA \hfill Novembre 2023
+- Vincitore, *Educational Grant*, EACVI Congress, Barcelona, Spain \hfill Maggio 2023
+- Vincitore, *Travel Grant*, SCMR Conference, San Diego, USA \hfill Gennaio 2023
+- Riconoscimento «*Percorso di Eccellenza*» in Medicina e Chirurgia, Università G. d’Annunzio, Chieti, Italia \hfill Ottobre 2019
+:::

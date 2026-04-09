@@ -1,0 +1,28 @@
+::: {.content-visible when-profile="english"}
+# Grants
+- “Cardiac MRI Anywhere”, HLCC Innovation Accelerator Grant, Guys' & St Thomas NHS Trust (co-investigator, £13,250) \hfill March 2026
+    - To develop and test a Mobile CMR Service in the UK NHS
+- Accelerating Innovation in the NHS: A Pilot Feasibility Study using Novel Needle-Free, Contrast-Free CMR Methods for the Surveillance of Patients receiving
+Anticancer Treatment, Research Seed Grant Fund, Royal Brompton Hospital Charity (co-investigator, £40,000) \hfill February 2026
+    - To develop and validate a contrast-free, needle-free CMR protocol for surveillance of cardiotoxicity in patients undergoing cancer treatment
+- REFINE-StressCMR, Royal Brompton Hospital Charity (co-investigator, £39,606) \hfill February 2025
+    - To develop and validate a standardized framework for the interpretation and reporting of qualitative and quantitative stress CMR findings
+- British Cardiovascular Society-Heart Research UK Clinical Fellowship Scheme (co-investigator, £16,000) \hfill December 2024
+    - For a team from Harefield Hospital to undertake a weekly site visit to the CMR Unit at Brigham and Womens' Hospital and Harvard Medical School, Boston, Massachussets, USA, with the aim to familiarise with AI-powered, automated, accelerated cardiac MRI acquisition software
+- ULTRALIGHT-HCM, Italian Ministry of Public Education (co-applicant, € 299,604) \hfill July 2023
+    - To perform deep cardiovascular phenotyping on athletes with left ventricular hypertrophy, using cardiac MRI and advanced genetic testing to identify features predictive of hypertrophic cardiomyopathy
+:::
+
+::: {.content-visible when-profile="italian"}
+# Grant
+- "Cardiac MRI Anywhere" (co-applicant), HLCC Innovation Accelerator Grant, Guys' & St Thomas NHS Trust (£13,250) \hfill Marzo 2026
+    - Sviluppo e test di un servizio mobile di cardio-RM nell'ambito del Servizio Sanitario Nazionale britannico (NHS)
+- Accelerating Innovation in the NHS (co-applicant), Research Seed Grant Fund, Royal Brompton Hospital Charity (£40,000) \hfill Febbraio 2026
+    - Sviluppo e validazione di un protocollo di cardio-RM senza contrasto e senza ago per la sorveglianza della cardiotossicità in pazienti sottoposti a trattamento oncologico
+- REFINE-StressCMR (co-applicant), Royal Brompton Hospital Charity (£39,606) \hfill Febbraio 2025
+    - Sviluppo e validazione di un framework per l'interpretazione e il reporting standardizzato dei reperti di cardio-RM da stress farmacologico con approccio qualitativo e quantitativo alla valutazione della perfusione miocardica
+- British Cardiovascular Society-Heart Research UK Clinical Fellowship Scheme (co-applicant, £16,000) \hfill Dicembre 2024
+    - Site visit della CMR unit dell'ospedale di Harefield presso il Brigham and Womens' Hospital (Boston, USA) e la Cleveland Clinic (Cleveland, USA), allo scopo di familiarizzare con sistemi IA per l'acquisizione di immagini di cardio-RM
+- ULTRALIGHT-HCM (collaboratore di unità), PRIN PNRR 2022 (€299,604) \hfill Luglio 2023
+    - Fenotipizzazione avanzata, mediante imaging con cardio-RM e test genetico, di atleti con sospetta cardiomiopatia ipertrofica
+:::

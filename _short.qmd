@@ -1,0 +1,23 @@
+---
+#title: 
+format:
+  quarto-cv-pdf: 
+    hyperrefoptions: draft
+author: Giandomenico Bisaccia, MD-PhD, MSc
+date: last-modified
+email: bisacciagiandomenico@gmail.com
+fontsize: 11pt
+orcid: 0000-0003-4606-3093 # orcid identifier
+linkedin: bisacciamd
+web: 'bisacciamd.com'
+fontawesome: yes
+nocite: '@*'
+validate-yaml: false
+csl: apa-cv.csl
+---
+{{< include _experience.qmd >}}
+{{< include _education.qmd >}}
+  \newpage
+{{< include _teaching.qmd >}}
+{{< include _leadership.qmd >}}  
+{{< include _licenses.qmd >}}
