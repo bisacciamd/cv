@@ -25,32 +25,31 @@ pubs <- ifelse(is.null(pubs), 24, pubs)
 ```
 
 ::: {.content-visible when-profile="english"}
-I have contributed to various scientific books, notably including Braunwald's Heart Disease, the ESC Textbook of Cardiovascular Medicine, and the EACVI Textbook of Cardiovascular Magnetic Resonance. I have also authored `r pubs` Scopus-indexed  publications, where I contributed to literature review, statistical analyses, manuscript drafting, and/or preparation of tables, visual illustrations, and figures. My publications may also be accessed on [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Bisaccia%20Giandomenico%22%5BAuthor%5D).
+I have contributed to various scientific books, notably including Braunwald’s Heart Disease, the ESC Textbook of Cardiovascular Medicine, and the EACVI Textbook of Cardiovascular Magnetic Resonance. I have also authored `r pubs` Scopus-indexed  publications, where I contributed to literature review, statistical analyses, manuscript drafting, and/or preparation of tables, visual illustrations, and figures. My publications may also be accessed on [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Bisaccia%20Giandomenico%22%5BAuthor%5D).
 
-::: {.content-visible when-profile="english"}
 ## Chapters in books
 **"Artificial intelligence in cardiovascular imaging"** (chapter author). *The ESC Textbook of Cardiovascular Medicine* (fourth edition). Edited by Nico Bruining et al, OUP, 2026.
 
 **"Myocardial Infarction with Nonobstructed Coronary Arteries"** (chapter author). *EACVI Textbook of Cardiovascular Magnetic Resonance*. Edited by Sven Plein, Chiara Bucciarelli-Ducci and Steffen Petersen, OUP, 2026.
 
-**"Cardiovascular Magnetic Resonance"** book chapter (listed contributor).*Braunwald’s Heart Disease*, edited by Robert O. Bonow, Douglas L. Mann, Gordon F. Tomaselli, Deepak L. Bhatt, Scott D. Solomon, Peter Libby, Eugene Braunwald, Elsevier, 2026.
+**"Cardiovascular Magnetic Resonance"** book chapter (listed contributor). *Braunwald’s Heart Disease*, edited by Robert O. Bonow, Douglas L. Mann, Gordon F. Tomaselli, Deepak L. Bhatt, Scott D. Solomon, Peter Libby, Eugene Braunwald, Elsevier, 2026.
 
 **"Acute Coronary Syndromes".** *Magnetic Resonance Imaging Atlas* (chapter author), Cardiology *(«RISONANZA MAGNETICA - TESTO ATLANTE»*), edited by Patrizia Pedrotti and Francesco Secchi, Poletto, 2025.
+
+## Original research
 :::
 
 ::: {.content-visible when-profile="italian"}
+Ho contribuito a `r pubs` pubblicazioni scientifiche (Scopus). In questi lavori, ho effettuato revisioni della letteratura, la prima stesura del testo, analisi statistiche, e la preparazione di tabelle, illustrazioni e figure. La lista delle mie pubblicazioni è disponibile online su [NCBI](https://www.ncbi.nlm.nih.gov/myncbi/giandomenico.bisaccia.1/bibliography/public/).
+
 ## Capitoli di libri
-**"Artificial intelligence in cardiovascular imaging"** (autore). *ESC Textbook of Cardiovascular Medicine* (quarta edizione). Edito da by Nico Bruining et al, OUP, 2026.
+**"Artificial intelligence in cardiovascular imaging"** (autore). *ESC Textbook of Cardiovascular Medicine* (quarta edizione). Edito da Nico Bruining et al, OUP, 2026.
+
+**"Myocardial Infarction with Nonobstructed Coronary Arteries"** (autore). *EACVI Textbook of Cardiovascular Magnetic Resonance*. Edito da Sven Plein, Chiara Bucciarelli-Ducci e Steffen Petersen, OUP, 2026.
 
 **"Cardiovascular Magnetic Resonance"** (contributor), *Braunwald’s Heart Disease*, edito da Robert O. Bonow, Douglas L. Mann, Gordon F. Tomaselli, Deepak L. Bhatt, Scott D. Solomon, Peter Libby, Eugene Braunwald, Elsevier, 2026.
 
 **"Sindromi coronariche acute".** (autore). *RISONANZA MAGNETICA - TESTO ATLANTE* (collana diretta da Angelo Vanzulli) Cardiologia (a cura di Patrizia Pedrotti, Francesco Secchi), Poletto Editore, 2025.
-:::
-
-## Original research
-:::
-::: {.content-visible when-profile="italian"}
-Ho contribuito a `r pubs` pubblicazioni scientifiche (Scopus). In questi lavori, ho effettuato revisioni della letteratura, la prima stesura del testo, analisi statistiche, e la preparazione di tabelle, illustrazioni e figure. La lista delle mie pubblicazioni è disponibile online su [NCBI](https://www.ncbi.nlm.nih.gov/myncbi/giandomenico.bisaccia.1/bibliography/public/).
 
 ## Studi originali
 :::
@@ -134,7 +133,7 @@ V. Bucciarelli, F. Bianco, **G. Bisaccia**, K. Galanti, A. Arata, M. Ricci, B. B
 **Moderate aortic stenosis: Navigating the uncharted** (2024).
 M. V. Caprio, F. De Donno, **G. Bisaccia**, C. Mantini, A. Di Baldassarre, S. Gallina, M. Y. Khanji and F. Ricci.
 *Echocardiography*.
-[{{< bi box-arrow-up-right >}}](https://doi.org/https://doi.org/10.1111/echo.15859)
+[{{< bi box-arrow-up-right >}}](https://doi.org/10.1111/echo.15859)
 
 **Underlying mechanisms and cardioprotective effects of SGLT2i and GLP-1Ra: insights from cardiovascular magnetic resonance** (2024).
 A. Cersosimo, N. Salerno, J. Sabatino, A. Scatteia, **G. Bisaccia**, S. De Rosa, S. Dellegrottaglie, C. Bucciarelli-Ducci, D. Torella and I. Leo.
@@ -182,6 +181,11 @@ I. Leo, **G. Bisaccia**, N. Miaris, M. C. Procopio, R. Licordari and C. Bucciare
 ::: {.content-visible when-profile="italian"}
 ## Editoriali, Case report e Lettere agli editori
 :::
+**A Changing Climate Requires Changing Tools: Environmental Exposures and Cardiovascular Health through a CMR Imaging Lens** (2026).
+**G. Bisaccia** and K. Hanneman.
+*European Heart Journal - Cardiovascular Imaging*.
+[{{< bi box-arrow-up-right >}}](https://doi.org/10.1093/ehjci/jeag109)
+
 **Stress CMR and Chronic Total Occlusions: Will the Fermi Function Solve the Fermi Paradox?** (2025).
 **G. Bisaccia** and F. Ricci.
 *European Heart Journal - Cardiovascular Imaging*.
@@ -190,7 +194,7 @@ I. Leo, **G. Bisaccia**, N. Miaris, M. C. Procopio, R. Licordari and C. Bucciare
 **Cardiac allograft vasculopathy and splenic switch-off: «off we go»?** (2025).
 **G. Bisaccia**, J. Wong and C. Bucciarelli-Ducci.
 *Journal of Cardiology*.
-[{{< bi box-arrow-up-right >}}](https://doi.org/https://doi.org/10.1016/j.jjcc.2025.05.009)
+[{{< bi box-arrow-up-right >}}](https://doi.org/10.1016/j.jjcc.2025.05.009)
 
 **Two Hearts Beating in One Chest** (2025).
 I. Leo, **G. Bisaccia**, J. Wong, F. Riesgo-Gil, P. Kellman and C. Bucciarelli-Ducci.

@@ -52,7 +52,7 @@ Presenting author: **G. Bisaccia**. [CMR 2024 London, UK (Jan 2024).]{.content-v
 :::
 
 ::: {.content-visible when-profile="italian"}
-# Altre presentazioni su invito
+## Altre presentazioni su invito
 :::
 
 *A 14-years old male presenting to the ED: Imaging the 12-Year Natural History of Arrhythmogenic Cardiomyopathy*. High-Impact Cardiovascular Imaging | Caracas Cardiovascular Course 2026, [Caracas, Venezuela (online; April 2026)]{.content-visible when-profile="english"}[Caracas, Venezuela (online; Aprile 2026)]{.content-visible when-profile="italian"}.

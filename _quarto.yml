@@ -30,6 +30,6 @@ format:
     toc-location: left
 #  docx:
 #    reference-doc: custom-reference-doc.docx
-csl: jacc-cvi.csl
+csl: apa-cv.csl
 execute: 
   freeze: false
