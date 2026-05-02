@@ -1,18 +1,41 @@
+# Quarto internals
 /.quarto/
-/phd/data/
-/.luarc.json
+
+# Secret / credentials
 *.secret
-.Rproj.user
-*.DS_Store
-.history/
-cv_output/raw/
-<<<<<<< HEAD
-_full.qmd
 data/
-=======
+
+# R / RStudio
+.Rproj.user
+
+# macOS
+*.DS_Store
+.smbdelete*
+
+# Edit history (local IDE artefact)
+.history/
+
+# ── Generated build outputs ──────────────────────────────────────────────────
+
+# PDF outputs (produced by render_cv.sh; kept in cv_output/ only)
+cv_output/raw/
+cv_output/*.pdf
+docs/*.pdf
+Bisaccia_CV_en.pdf
+_short.pdf
+
+# Standalone section HTML previews (generated when opening a partial in RStudio)
+_*.html
+_*_files/
+
+# Leftover full/ build artefacts
+_full.qmd
 full/
->>>>>>> main
-cv_output/*.pdf
-docs/*.pdf
-cv_output/*.pdf
-docs/*.pdf
+full_files/
+
+# Generated CSS copied into docs/ by Quarto
+docs/styles.css
+docs/it/styles.css
+
+# ── Claude working file ───────────────────────────────────────────────────────
+CLAUDE.md
