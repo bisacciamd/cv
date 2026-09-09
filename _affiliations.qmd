@@ -1,8 +1,11 @@
 
 ::: {.content-visible when-profile="english"}
 # Affiliations
+- European Association of Percutaneous Cardiovascular Interventions (EAPCI) \hfill 2026-present
 - Italian Association of Hospital Cardiologists (ANMCO) \hfill 2025-present
+- Association for Acute CardioVascular Care (ACVC) \hfill 2024-present
 - British Cardiovascular Society \hfill 2024-present
+- Heart Failure Association (HFA) \hfill 2024-present
 - British Society of Cardiovascular Magnetic Resonance \hfill 2024-present
 - American Heart Association \hfill 2023-present
 - American College of Cardiology \hfill 2022-present
@@ -13,8 +16,11 @@
 :::
 ::: {.content-visible when-profile="italian"}
 # Affiliazioni
+- European Association of Percutaneous Cardiovascular Interventions (EAPCI) \hfill 2026-presente
 - Associazione Nazionale Medici Cardiologi Ospedalieri \hfill 2025-presente
+- Association for Acute CardioVascular Care (ACVC) \hfill 2024-presente
 - British Cardiovascular Society \hfill 2024-presente
+- Heart Failure Association (HFA) \hfill 2024-presente
 - British Society of Cardiovascular Magnetic Resonance \hfill 2024-presente
 - American Heart Association \hfill 2023-presente 
 - American College of Cardiology \hfill 2022-presente

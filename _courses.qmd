@@ -1,6 +1,7 @@
 ::: {.content-visible when-profile="english"}
 # Certified courses, workshops, and hackathons
 
+- *ACVC-EAPCI Cardiogenic Shock School, Level 1*, ESC, Milan, Italy \hfill 17-18 September 2026
 - *Stress MR III In DC: A Hands-On Workshop*, SCMR, ACC Heart House, Washington D.C., USA \hfill 10-11 October 2025
 - *Introduction to R for Economic Evaluation*, Dark Peak Analytics, online \hfill November-December 2024
 - *Stress CMR: A Hands-On Workshop*, SCMR, ACC Heart House, Washington D.C., USA \hfill 4-5 October 2024
@@ -13,6 +14,7 @@
 ::: {.content-visible when-profile="italian"}
 # Corsi certificati, workshop e hackathon
 
+- *ACVC-EAPCI Cardiogenic Shock School, Level 1*, ESC, Milano, Italia \hfill 17-18 Settembre 2026
 - *Stress MR III In DC: A Hands-On Workshop*, SCMR, ACC Heart House, Washington D.C., USA \hfill 10-11 Ottobre 2025
 - *Introduction to R for Economic Evaluation*, Dark Peak Analytics, online \hfill Novembre-Dicembre  2024
 - *Stress CMR: A Hands-On Workshop*, SCMR, ACC Heart House, Washington D.C., USA \hfill 4-5 Ottobre 2024
