@@ -23,6 +23,7 @@ nocite: '@*'
 validate-yaml: false
 csl: apa-cv.csl
 ---
+{{< include _personal.qmd >}}
 {{< include _experience.qmd >}}
 {{< include _education.qmd >}}
 {{< include _grants.qmd >}}

@@ -1,0 +1,10 @@
+::: {.content-visible when-profile="english"}
+# Personal information
+- Date of birth: 12 December 1995
+- Citizenship: Italian
+:::
+::: {.content-visible when-profile="italian"}
+# Dati personali
+- Data di nascita: 12 dicembre 1995
+- Cittadinanza: italiana
+:::
