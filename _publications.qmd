@@ -21,7 +21,7 @@ pubs <- tryCatch({
     NULL  # In case of an error, return NULL
   })[[1]]$`document-count`
 
-pubs <- ifelse(is.null(pubs), 24, pubs)
+pubs <- ifelse(is.null(pubs), 30, pubs)
 ```
 
 ::: {.content-visible when-profile="english"}
@@ -53,6 +53,10 @@ Ho contribuito a `r pubs` pubblicazioni scientifiche (Scopus). In questi lavori,
 
 ## Studi originali
 :::
+
+**Long-Term Warranty Period of Stress CMR and SPECT in Stable Angina: Implications for Repeat Testing** (2026). **G. Bisaccia**, P. P. Swoboda, J. F. Younger, N. Maredia, C. Bucciarelli-Ducci, S. Plein and J. P. Greenwood.
+*JACC: Cardiovascular Imaging*.
+[{{< bi box-arrow-up-right >}}](https://doi.org/10.1016/j.jcmg.2026.07.016)
 
 **Diagnostic and prognostic comparison of stress ECG, CMR and SPECT, alone and sequentially, in stable chest pain** (2025). **G. Bisaccia**, P. P. Swoboda, J. F. Younger, N. Maredia, C. J. Dickinson, J. M. Brown, C. Bucciarelli-Ducci, S. Plein and J. P. Greenwood.
 *Journal of Cardiovascular Magnetic Resonance*.
@@ -114,6 +118,11 @@ F. Ricci, N. Aung, S. Gallina, F. Zemrak, K. Fung, **G. Bisaccia**, J. M. Paiva,
 ::: {.content-visible when-profile="italian"}
 ## Revisioni della letteratura
 :::
+
+**Beyond traditional risk factors: Social, reproductive, and environmental determinants of cardiovascular health in women** (2026).
+C. Cocchi, **G. Bisaccia**, M. L. Rizzuto, F. Moscucci, F. Coppi, S. Sciomer, S. Gallina, G. Renda and A. V. Mattioli.
+*Current Problems in Cardiology*.
+[{{< bi box-arrow-up-right >}}](https://doi.org/10.1016/j.cpcardiol.2026.103451)
 
 **[Artificial intelligence-enhanced ECG interpretation: a new era for electrocardiography?]** (2025).
 F. Ricci, M. L. Rizzuto, **G. Bisaccia**, D. Mansour, S. Gallina, L. Sciarra, G. Bagliani, A. Dello Russo, A. Mortara and G. Ciliberti.
@@ -185,6 +194,11 @@ I. Leo, **G. Bisaccia**, N. Miaris, M. C. Procopio, R. Licordari and C. Bucciare
 **G. Bisaccia** and K. Hanneman.
 *European Heart Journal - Cardiovascular Imaging*.
 [{{< bi box-arrow-up-right >}}](https://doi.org/10.1093/ehjci/jeag109)
+
+**Spontaneous coronary artery dissection: Why early treatment choices matter** (2026).
+G. Ciliberti, **G. Bisaccia**, M. L. Rizzuto, S. Gallina, F. Fortuni, F. Zilio and F. Ricci.
+*International Journal of Cardiology*.
+[{{< bi box-arrow-up-right >}}](https://doi.org/10.1016/j.ijcard.2026.134182)
 
 **Stress CMR and Chronic Total Occlusions: Will the Fermi Function Solve the Fermi Paradox?** (2025).
 **G. Bisaccia** and F. Ricci.
