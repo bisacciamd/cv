@@ -190,6 +190,11 @@ I. Leo, **G. Bisaccia**, N. Miaris, M. C. Procopio, R. Licordari and C. Bucciare
 ::: {.content-visible when-profile="italian"}
 ## Editoriali, Case report e Lettere agli editori
 :::
+**Chasing the ideal lumen through lesion preparation: Lessons from the BALI trial on calcified lesions** (2027).
+**G. Bisaccia**, E. Sagazio and M. Zimarino.
+*International Journal of Cardiology*.
+[{{< bi box-arrow-up-right >}}](https://doi.org/10.1016/j.ijcard.2026.135033)
+
 **A Changing Climate Requires Changing Tools: Environmental Exposures and Cardiovascular Health through a CMR Imaging Lens** (2026).
 **G. Bisaccia** and K. Hanneman.
 *European Heart Journal - Cardiovascular Imaging*.
