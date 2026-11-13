@@ -7,6 +7,11 @@
 # Presentazioni a congressi internazionali
 :::
 
+## Radiological Society of North America
+
+*Temporal Trends in Cardiac Imaging Referrals for Chronic Coronary Syndrome in the United States from 2016 to 2025* ([oral presentation]{.content-visible when-profile="english"}[presentazione orale]{.content-visible when-profile="italian"}).
+Presenting author: **G. Bisaccia**. [RSNA 2026 Annual Meeting, Chicago, USA (December 2026)]{.content-visible when-profile="english"} [RSNA 2026 Annual Meeting, Chicago, Stati Uniti (Dicembre 2026)]{.content-visible when-profile="italian"}
+
 ## European Society of Cardiology
 
 *Non-invasive imaging to guide percutaneous coronary revascularization in chronic total occlusion: a systematic review and meta-analysis*.
