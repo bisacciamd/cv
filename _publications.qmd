@@ -36,6 +36,33 @@ I have contributed to various scientific books, notably including Braunwald’s 
 
 **"Acute Coronary Syndromes".** *Magnetic Resonance Imaging Atlas* (chapter author), Cardiology *(«RISONANZA MAGNETICA - TESTO ATLANTE»*), edited by Patrizia Pedrotti and Francesco Secchi, Poletto, 2025.
 
+## Citations in clinical guidelines and consensus documents
+My work is cited in 12 international and national guidelines, consensus statements and position papers (verified against each document's reference list, November 2026).
+
+**Fifth Universal Definition of Myocardial Infarction** (2026). Joint ESC/ACC/AHA/WHF Task Force. *European Heart Journal*, *Circulation*, *JACC* and *Global Heart*. Cites: *CMR reclassifies the majority of patients with suspected MINOCA and non MINOCA* (EHJ-CVI 2023). [{{< bi box-arrow-up-right >}}](https://doi.org/10.1093/eurheartj/ehag101)
+
+**Implementation of cardiac magnetic resonance imaging in everyday cardiology practice** (2026). ESC consensus document. *European Heart Journal*. Cites: *Diagnostic and Prognostic Value of Stress CMR… Meta-analysis* (JAMA Cardiology 2023) and *How late is too late? Influence of CMR timing in suspected MINOCA* (ESC Congress 2025 abstract). [{{< bi box-arrow-up-right >}}](https://doi.org/10.1093/eurheartj/ehag678)
+
+**Indications, protocols, and interpretation of cardiovascular imaging for the evaluation and management of athletes. Part 2: CMR, cardiac CT and nuclear imaging** (2026). EAPC/EACVI Clinical Consensus Statement of the ESC. *EHJ-CVI* and *European Journal of Preventive Cardiology*. Cites: *CMR reclassifies the majority of patients with suspected MINOCA and non MINOCA* (EHJ-CVI 2023). [{{< bi box-arrow-up-right >}}](https://doi.org/10.1093/ehjci/jeag060)
+
+**Guideline on Stress Echocardiography – 2026** (2026). Brazilian Society of Cardiology (SBC). *Arquivos Brasileiros de Cardiologia*. Cites: *CMR reclassifies the majority of patients with suspected MINOCA and non MINOCA* (EHJ-CVI 2023). [{{< bi box-arrow-up-right >}}](https://doi.org/10.36660/abc.20260223)
+
+**Cardiotoxicity in children and adolescents with acute leukaemia: recommendations of the SFCE Leukaemia Committee** (2026). French Society of Childhood and Adolescent Cancers and Leukaemias (SFCE). *Bulletin du Cancer*. Cites: *Prevention of cardiotoxicity in childhood cancer survivors: in physical exercise, we trust* (Curr Probl Cardiol 2024). [{{< bi box-arrow-up-right >}}](https://doi.org/10.1016/j.bulcan.2026.03.006)
+
+**Guideline for Chronic Coronary Syndrome – 2025** (2025). Brazilian Society of Cardiology (SBC). *Arquivos Brasileiros de Cardiologia*. Cites: *Diagnostic and Prognostic Value of Stress CMR… Meta-analysis* (JAMA Cardiology 2023). [{{< bi box-arrow-up-right >}}](https://doi.org/10.36660/abc.20250619)
+
+**SCMR reference values ("normal values") in cardiovascular magnetic resonance: 2025 update** (2025). Society for Cardiovascular Magnetic Resonance. *Journal of Cardiovascular Magnetic Resonance*. Cites: *CMR reference values of mitral and tricuspid annular dimensions: the UK Biobank cohort* (JCMR 2021). [{{< bi box-arrow-up-right >}}](https://doi.org/10.1016/j.jocmr.2025.101853)
+
+**Interpretation and management of T wave inversion in athletes** (2025). Expert opinion statement of the Italian Society of Sports Cardiology (SICSPORT). *International Journal of Cardiology*. Cites: *CMR reference values of mitral and tricuspid annular dimensions: the UK Biobank cohort* (JCMR 2021). [{{< bi box-arrow-up-right >}}](https://doi.org/10.1016/j.ijcard.2025.132968)
+
+**Management of conduction disease and arrhythmias in patients with cardiac amyloidosis** (2025). Position paper of the Working Group of Cardiac Pacing and Electrophysiology of the French Society of Cardiology. *Archives of Cardiovascular Diseases*. Cites: *Atrial electro-functional predictors of incident atrial fibrillation in cardiac amyloidosis* (Heart Rhythm 2024). [{{< bi box-arrow-up-right >}}](https://doi.org/10.1016/j.acvd.2024.10.323)
+
+**2024 ESC Guidelines for the management of chronic coronary syndromes** (2024). European Society of Cardiology. *European Heart Journal*. Cites: *Diagnostic and Prognostic Value of Stress CMR… Meta-analysis* (JAMA Cardiology 2023). [{{< bi box-arrow-up-right >}}](https://doi.org/10.1093/eurheartj/ehae177)
+
+**Evaluation and treatment approaches for neurological post-acute sequelae of COVID-19** (2023). Consensus statement of the Global COVID-19 Neuro Research Coalition. *Journal of the Neurological Sciences*. Cites: *Post-Acute Sequelae of COVID-19 and Cardiovascular Autonomic Dysfunction: What Do We Know?* (JCDD 2021). [{{< bi box-arrow-up-right >}}](https://doi.org/10.1016/j.jns.2023.120827)
+
+**Multi-disciplinary collaborative consensus guidance statement on the assessment and treatment of autonomic dysfunction in patients with PASC** (2022). AAPM&R PASC Collaborative. *PM&R*. Cites: *Post-Acute Sequelae of COVID-19 and Cardiovascular Autonomic Dysfunction: What Do We Know?* (JCDD 2021). [{{< bi box-arrow-up-right >}}](https://doi.org/10.1002/pmrj.12894)
+
 ## Original research
 :::
 
@@ -50,6 +77,33 @@ Ho contribuito a `r pubs` pubblicazioni scientifiche (Scopus). In questi lavori,
 **"Cardiovascular Magnetic Resonance"** (contributor), *Braunwald’s Heart Disease*, edito da Robert O. Bonow, Douglas L. Mann, Gordon F. Tomaselli, Deepak L. Bhatt, Scott D. Solomon, Peter Libby, Eugene Braunwald, Elsevier, 2026.
 
 **"Sindromi coronariche acute".** (autore). *RISONANZA MAGNETICA - TESTO ATLANTE* (collana diretta da Angelo Vanzulli) Cardiologia (a cura di Patrizia Pedrotti, Francesco Secchi), Poletto Editore, 2025.
+
+## Citazioni in linee guida e documenti di consenso
+I miei lavori sono citati in 12 linee guida, documenti di consenso e position paper internazionali e nazionali (verificato sulla bibliografia di ciascun documento, novembre 2026).
+
+**Fifth Universal Definition of Myocardial Infarction** (2026). Task Force congiunta ESC/ACC/AHA/WHF. *European Heart Journal*, *Circulation*, *JACC* e *Global Heart*. Cita: *CMR reclassifies the majority of patients with suspected MINOCA and non MINOCA* (EHJ-CVI 2023). [{{< bi box-arrow-up-right >}}](https://doi.org/10.1093/eurheartj/ehag101)
+
+**Implementation of cardiac magnetic resonance imaging in everyday cardiology practice** (2026). Documento di consenso ESC. *European Heart Journal*. Cita: *Diagnostic and Prognostic Value of Stress CMR… Meta-analysis* (JAMA Cardiology 2023) e *How late is too late? Influence of CMR timing in suspected MINOCA* (ESC Congress 2025 abstract). [{{< bi box-arrow-up-right >}}](https://doi.org/10.1093/eurheartj/ehag678)
+
+**Indications, protocols, and interpretation of cardiovascular imaging for the evaluation and management of athletes. Part 2: CMR, cardiac CT and nuclear imaging** (2026). Clinical Consensus Statement EAPC/EACVI della ESC. *EHJ-CVI* e *European Journal of Preventive Cardiology*. Cita: *CMR reclassifies the majority of patients with suspected MINOCA and non MINOCA* (EHJ-CVI 2023). [{{< bi box-arrow-up-right >}}](https://doi.org/10.1093/ehjci/jeag060)
+
+**Guideline on Stress Echocardiography – 2026** (2026). Società Brasiliana di Cardiologia (SBC). *Arquivos Brasileiros de Cardiologia*. Cita: *CMR reclassifies the majority of patients with suspected MINOCA and non MINOCA* (EHJ-CVI 2023). [{{< bi box-arrow-up-right >}}](https://doi.org/10.36660/abc.20260223)
+
+**Cardiotoxicity in children and adolescents with acute leukaemia: recommendations of the SFCE Leukaemia Committee** (2026). Società Francese dei Tumori e delle Leucemie dell'Infanzia e dell'Adolescenza (SFCE). *Bulletin du Cancer*. Cita: *Prevention of cardiotoxicity in childhood cancer survivors: in physical exercise, we trust* (Curr Probl Cardiol 2024). [{{< bi box-arrow-up-right >}}](https://doi.org/10.1016/j.bulcan.2026.03.006)
+
+**Guideline for Chronic Coronary Syndrome – 2025** (2025). Società Brasiliana di Cardiologia (SBC). *Arquivos Brasileiros de Cardiologia*. Cita: *Diagnostic and Prognostic Value of Stress CMR… Meta-analysis* (JAMA Cardiology 2023). [{{< bi box-arrow-up-right >}}](https://doi.org/10.36660/abc.20250619)
+
+**SCMR reference values ("normal values") in cardiovascular magnetic resonance: 2025 update** (2025). Society for Cardiovascular Magnetic Resonance. *Journal of Cardiovascular Magnetic Resonance*. Cita: *CMR reference values of mitral and tricuspid annular dimensions: the UK Biobank cohort* (JCMR 2021). [{{< bi box-arrow-up-right >}}](https://doi.org/10.1016/j.jocmr.2025.101853)
+
+**Interpretation and management of T wave inversion in athletes** (2025). Expert opinion statement della Società Italiana di Cardiologia dello Sport (SICSPORT). *International Journal of Cardiology*. Cita: *CMR reference values of mitral and tricuspid annular dimensions: the UK Biobank cohort* (JCMR 2021). [{{< bi box-arrow-up-right >}}](https://doi.org/10.1016/j.ijcard.2025.132968)
+
+**Management of conduction disease and arrhythmias in patients with cardiac amyloidosis** (2025). Position paper del Working Group di Elettrofisiologia e Pacing della Società Francese di Cardiologia. *Archives of Cardiovascular Diseases*. Cita: *Atrial electro-functional predictors of incident atrial fibrillation in cardiac amyloidosis* (Heart Rhythm 2024). [{{< bi box-arrow-up-right >}}](https://doi.org/10.1016/j.acvd.2024.10.323)
+
+**2024 ESC Guidelines for the management of chronic coronary syndromes** (2024). Società Europea di Cardiologia. *European Heart Journal*. Cita: *Diagnostic and Prognostic Value of Stress CMR… Meta-analysis* (JAMA Cardiology 2023). [{{< bi box-arrow-up-right >}}](https://doi.org/10.1093/eurheartj/ehae177)
+
+**Evaluation and treatment approaches for neurological post-acute sequelae of COVID-19** (2023). Consensus statement della Global COVID-19 Neuro Research Coalition. *Journal of the Neurological Sciences*. Cita: *Post-Acute Sequelae of COVID-19 and Cardiovascular Autonomic Dysfunction: What Do We Know?* (JCDD 2021). [{{< bi box-arrow-up-right >}}](https://doi.org/10.1016/j.jns.2023.120827)
+
+**Multi-disciplinary collaborative consensus guidance statement on the assessment and treatment of autonomic dysfunction in patients with PASC** (2022). AAPM&R PASC Collaborative. *PM&R*. Cita: *Post-Acute Sequelae of COVID-19 and Cardiovascular Autonomic Dysfunction: What Do We Know?* (JCDD 2021). [{{< bi box-arrow-up-right >}}](https://doi.org/10.1002/pmrj.12894)
 
 ## Studi originali
 :::
